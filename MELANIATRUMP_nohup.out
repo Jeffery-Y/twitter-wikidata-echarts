@@ -1,0 +1,304 @@
+nohup: ignoring input
+ACCOUNTNUM: 3
+
+***********************************************************************
+getTwitterData.py-MELANIATRUMP:START TIME:2018-02-03 07:49:12
+the dataPath:./static/MELANIATRUMP-complex.json is not exist!
+user_screen_name: MELANIATRUMP
+user_name: MELANIA TRUMP
+user_name_search: Melania Trump
+Name: MELANIA TRUMP<br>Screen_name: MELANIATRUMP<br>Country:Slovenia, United States of America, Socialist Federal Republic<br> &nbsp &nbsp &nbsp &nbsp &nbsp  of Yugoslavia<br>Sex:female<br>Academic_Degree:None<br>Religion:Catholic Church, Christianity<br>Profession:model, jewellery designer<br>Economical_Condition:None<br>HomeTown:Novo Mesto<br>Marital_Status:Donald Trump<br>Political_Party:Republican Party<br>Medical_Condition:None<br>Race:Slovene American
+[friends]name:MELANIATRUMP, level:1, nodes:1, edges:0
+[mention_users]name:MELANIATRUMP
+******get MELANIATRUMP-Donald J. Trump friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=XG4c9VWXqEPbZ4MIZtMeDGost&oauth_nonce=3635046000632171394&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517644167&oauth_token=959678897829724161-uI2GNnLVc9fEH0TmccfIEkaDVOh6pFb&oauth_version=1.0&source_screen_name=MELANIATRUMP&target_screen_name=realDonaldTrump&oauth_signature=2tpgR1Z9D5NWvUSBKIKbAwSDaQU%3D)
+details: {'errors': [{'code': 88, 'message': 'Rate limit exceeded'}]}
+[MELANIATRUMP.mention]name:FLOTUS, nodes:1, edges:0
+user_screen_name: FLOTUS
+user_name: Melania Trump
+user_name_search: Melania Trump
+Name: Melania Trump<br>Screen_name: FLOTUS<br>Country:Slovenia, United States of America, Socialist Federal Republic<br> &nbsp &nbsp &nbsp &nbsp &nbsp  of Yugoslavia<br>Sex:female<br>Academic_Degree:None<br>Religion:Catholic Church, Christianity<br>Profession:model, jewellery designer<br>Economical_Condition:None<br>HomeTown:Novo Mesto<br>Marital_Status:Donald Trump<br>Political_Party:Republican Party<br>Medical_Condition:None<br>Race:Slovene American
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:realDonaldTrump, nodes:2, edges:4
+user_screen_name: realDonaldTrump
+user_name: Donald J. Trump
+user_name_search: Donald Trump
+Name: Donald J. Trump<br>Screen_name: realDonaldTrump<br>Country:United States of America<br>Sex:male<br>Academic_Degree:Bachelor of Science<br>Religion:Presbyterianism<br>Profession:business magnate, investor, restaurateur, non-fiction write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r, entrepreneur, politician, businessperson, property developer, game <br> &nbsp &nbsp &nbsp &nbsp &nbsp show host, political writer, statesman, real estate entrepreneur, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision producer, film producer, writer, actor, film actor, chief execu<br> &nbsp &nbsp &nbsp &nbsp &nbsp tive officer<br>Economical_Condition:$4500000000<br>HomeTown:NYC, New York, United States of America<br>Marital_Status:Ivana Trump, Melania Trump, Marla Maples<br>Political_Party:Republican Party, Republican Party, Republican Party, <br> &nbsp &nbsp &nbsp &nbsp &nbsp Independence Party of America, Democratic Party, independent politicia<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Medical_Condition:None<br>Race:White American, German American
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:NoradSanta, nodes:3, edges:7
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:POTUS, nodes:4, edges:10
+user_screen_name: POTUS
+user_name: President Trump
+user_name_search: Donald Trump
+Name: President Trump<br>Screen_name: POTUS<br>Country:United States of America<br>Sex:male<br>Academic_Degree:Bachelor of Science<br>Religion:Presbyterianism<br>Profession:business magnate, investor, restaurateur, non-fiction write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r, entrepreneur, politician, businessperson, property developer, game <br> &nbsp &nbsp &nbsp &nbsp &nbsp show host, political writer, statesman, real estate entrepreneur, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision producer, film producer, writer, actor, film actor, chief execu<br> &nbsp &nbsp &nbsp &nbsp &nbsp tive officer<br>Economical_Condition:$4500000000<br>HomeTown:NYC, New York, United States of America<br>Marital_Status:Ivana Trump, Melania Trump, Marla Maples<br>Political_Party:Republican Party, Republican Party, Republican Party, <br> &nbsp &nbsp &nbsp &nbsp &nbsp Independence Party of America, Democratic Party, independent politicia<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Medical_Condition:None<br>Race:White American, German American
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:AP_Politics, nodes:5, edges:12
+user_screen_name: AP_Politics
+user_name: AP Politics
+user_name_search: AP Comparative Government and Politics
+AP Politics 不是人哈哈哈哈
+AP Politics wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:JBABdc, nodes:6, edges:14
+[MELANIATRUMP.mention]name:ToysForTots_USA, nodes:7, edges:15
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'JBABdc', 'screen_name': 'JBABdc'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Toys for Tots', 'screen_name': 'ToysForTots_USA'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:childrenshealth, nodes:8, edges:21
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:WhiteHouse, nodes:9, edges:23
+user_screen_name: WhiteHouse
+user_name: The White House
+user_name_search: White House
+The White House 不是人哈哈哈哈
+The White House wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': "Children's National", 'screen_name': 'childrenshealth'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': "Children's National", 'screen_name': 'childrenshealth'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:SecondLady, nodes:10, edges:33
+user_screen_name: SecondLady
+user_name: Karen Pence
+user_name_search: Karen Pence
+Name: Karen Pence<br>Screen_name: SecondLady<br>Country:United States of America<br>Sex:female<br>Academic_Degree:None<br>Religion:Evangelical Christianity<br>Profession:elementary school teacher, watercolourist, politician<br>Economical_Condition:None<br>HomeTown:Broad Ripple Village<br>Marital_Status:Mike Pence<br>Political_Party:Republican Party<br>Medical_Condition:None<br>Race:None
+[MELANIATRUMP.mention]name:TexasFLCA, nodes:11, edges:34
+user_screen_name: TexasFLCA
+user_name: Cecilia Abbott
+user_name_search: Greg Abbott
+Name: Cecilia Abbott<br>Screen_name: TexasFLCA<br>Country:United States of America<br>Sex:male<br>Academic_Degree:None<br>Religion:Catholic Church<br>Profession:lawyer, politician, judge<br>Economical_Condition:None<br>HomeTown:Wichita Falls<br>Marital_Status:None<br>Political_Party:Republican Party<br>Medical_Condition:paraplegia<br>Race:None
+[MELANIATRUMP.mention]name:georgepbush, nodes:12, edges:35
+user_screen_name: georgepbush
+user_name: George P. Bush
+user_name_search: George P. Bush
+Name: George P. Bush<br>Screen_name: georgepbush<br>Country:United States of America<br>Sex:male<br>Academic_Degree:None<br>Religion:None<br>Profession:military officer, lawyer<br>Economical_Condition:None<br>HomeTown:Houston<br>Marital_Status:Amanda Williams Bush<br>Political_Party:Republican Party<br>Medical_Condition:None<br>Race:None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:CoastalBendFB, nodes:13, edges:38
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Karen Pence', 'screen_name': 'SecondLady'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:ABCWorldNews, nodes:14, edges:43
+user_screen_name: ABCWorldNews
+user_name: World News Tonight
+user_name_search: ABC World News Tonight
+World News Tonight 不是人哈哈哈哈
+World News Tonight wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:JBA_NAFW, nodes:15, edges:48
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'World News Tonight', 'screen_name': 'ABCWorldNews'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:USSArizona, nodes:16, edges:77
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:WhiteHouseHstry, nodes:17, edges:80
+user_screen_name: WhiteHouseHstry
+user_name: White House History
+user_name_search: White House History
+White House History 不是人哈哈哈哈
+White House History wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:FoxNews, nodes:18, edges:89
+user_screen_name: FoxNews
+user_name: Fox News
+user_name_search: Fox News
+Fox News 不是人哈哈哈哈
+Fox News wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:MichStatePolice, nodes:19, edges:94
+user_screen_name: MichStatePolice
+user_name: MSP Public Affairs
+user_name_search: Humza Yousaf
+Name: MSP Public Affairs<br>Screen_name: MichStatePolice<br>Country:United Kingdom<br>Sex:male<br>Academic_Degree:None<br>Religion:None<br>Profession:politician<br>Economical_Condition:None<br>HomeTown:Glasgow<br>Marital_Status:None<br>Political_Party:Scottish National Party<br>Medical_Condition:None<br>Race:None
+[MELANIATRUMP.mention]name:oaklandsheriff, nodes:20, edges:95
+[MELANIATRUMP.mention]name:WestBlmfldPD, nodes:21, edges:96
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:amhistorymuseum, nodes:22, edges:99
+user_screen_name: amhistorymuseum
+user_name: amhistorymuseum
+amhistorymuseum Wikipedia无此人
+amhistorymuseum wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:JustinTrudeau, nodes:23, edges:104
+user_screen_name: JustinTrudeau
+user_name: Justin Trudeau
+user_name_search: Justin Trudeau
+Name: Justin Trudeau<br>Screen_name: JustinTrudeau<br>Country:Canada<br>Sex:male<br>Academic_Degree:None<br>Religion:Catholicism<br>Profession:politician, teacher, journalist, feminist<br>Economical_Condition:None<br>HomeTown:Ottawa<br>Marital_Status:Sophie Grégoire<br>Political_Party:Liberal Party of Canada<br>Medical_Condition:None<br>Race:None
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention]name:ricardorossello, nodes:24, edges:118
+user_screen_name: ricardorossello
+user_name: Ricardo Rossello
+user_name_search: Ricardo Rosselló
+Name: Ricardo Rossello<br>Screen_name: ricardorossello<br>Country:Puerto Rico, United States of America<br>Sex:male<br>Academic_Degree:None<br>Religion:None<br>Profession:scientist, politician<br>Economical_Condition:None<br>HomeTown:San Juan<br>Marital_Status:Beatriz Rosselló<br>Political_Party:New Progressive Party of Puerto Rico<br>Medical_Condition:None<br>Race:None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:NCHCF, nodes:25, edges:126
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:InvictusToronto, nodes:26, edges:128
+user_screen_name: InvictusToronto
+user_name: Invictus Games 2017
+user_name_search: 2017 Invictus Games
+Invictus Games 2017 不是人哈哈哈哈
+Invictus Games 2017 wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Invictus Games 2017', 'screen_name': 'InvictusToronto'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention]name:BGCGW, nodes:27, edges:133
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'BGCGW', 'screen_name': 'BGCGW'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:usairforce, nodes:28, edges:142
+user_screen_name: usairforce
+user_name: U.S. Air Force
+user_name_search: United States Air Force
+U.S. Air Force 不是人哈哈哈哈
+U.S. Air Force wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'White House History', 'screen_name': 'WhiteHouseHstry'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Joint Base Andrews', 'screen_name': 'JBA_NAFW'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'White House History', 'screen_name': 'WhiteHouseHstry'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Joint Base Andrews', 'screen_name': 'JBA_NAFW'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:RedCross, nodes:29, edges:169
+user_screen_name: RedCross
+user_name: American Red Cross
+user_name_search: American Red Cross
+American Red Cross 不是人哈哈哈哈
+American Red Cross wikidata is None
+[MELANIATRUMP.mention]name:SalvationArmyUS, nodes:30, edges:170
+user_screen_name: SalvationArmyUS
+user_name: Salvation Army USA
+user_name_search: The Salvation Army
+Salvation Army USA 不是人哈哈哈哈
+Salvation Army USA wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'American Red Cross', 'screen_name': 'RedCross'}
+[MELANIATRUMP.mention]name:fema, nodes:31, edges:175
+user_screen_name: fema
+user_name: FEMA
+user_name_search: Federal Emergency Management Agency
+FEMA 不是人哈哈哈哈
+FEMA wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention]name:ChelseaClinton, nodes:32, edges:180
+user_screen_name: ChelseaClinton
+user_name: Chelsea Clinton
+user_name_search: Chelsea Clinton
+Name: Chelsea Clinton<br>Screen_name: ChelseaClinton<br>Country:United States of America<br>Sex:female<br>Academic_Degree:None<br>Religion:United Methodist Church<br>Profession:entrepreneur, businessperson, journalist<br>Economical_Condition:None<br>HomeTown:Little Rock<br>Marital_Status:Marc Mezvinsky<br>Political_Party:Democratic Party<br>Medical_Condition:None<br>Race:None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention]name:USNavy, nodes:33, edges:182
+user_screen_name: USNavy
+user_name: U.S. Navy
+user_name_search: United States Navy
+[MELANIATRUMP.friends]name:realDonaldTrump, level:1, nodes:1, edges:0
+user_screen_name: realDonaldTrump
+user_name: Donald J. Trump
+user_name_search: Donald Trump
+U.S. Navy 不是人哈哈哈哈
+U.S. Navy wikidata is None
+[MELANIATRUMP.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[MELANIATRUMP.mention(exist)]name:{'name': 'U.S. Navy', 'screen_name': 'USNavy'}

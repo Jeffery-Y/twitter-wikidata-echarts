@@ -1,0 +1,1662 @@
+nohup: ignoring input
+ACCOUNTNUM: 0
+
+***********************************************************************
+getTwitterData.py-realDonaldTrump:START TIME:2018-02-04 10:35:15
+the dataPath:./static/realDonaldTrump-complex.json is not exist!
+user_screen_name: realDonaldTrump
+user_name: Donald J. Trump
+user_name_search: Donald Trump
+{'unit': 'http://www.wikidata.org/entity/Q4917', 'amount': '+4500000000'}
+Name: Donald J. Trump<br>Screen_name: realDonaldTrump<br>Medical_Condition:None<br>Country:United States of America<br>Profession:business magnate, investor, restaurateur, non-fiction write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r, entrepreneur, politician, businessperson, property developer, game <br> &nbsp &nbsp &nbsp &nbsp &nbsp show host, political writer, statesman, real estate entrepreneur, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision producer, film producer, writer, actor, film actor, chief execu<br> &nbsp &nbsp &nbsp &nbsp &nbsp tive officer<br>Religion:Presbyterianism<br>Marital_Status:Ivana Trump, Melania Trump, Marla Maples<br>Economical_Condition:$4500000000<br>Academic_Degree:Bachelor of Science<br>Race:White American, German American<br>HomeTown:NYC, New York, United States of America<br>Political_Party:Republican Party, Republican Party, Republican Party, <br> &nbsp &nbsp &nbsp &nbsp &nbsp Independence Party of America, Democratic Party, independent politicia<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Sex:male
+[friends]name:realDonaldTrump, level:1, nodes:1, edges:0
+[mention_users]name:realDonaldTrump
+[realDonaldTrump.friends]name:PressSec, level:1, nodes:1, edges:0
+user_screen_name: PressSec
+user_name: Sarah Sanders
+user_name_search: Sarah Huckabee Sanders
+None
+Name: Sarah Sanders<br>Screen_name: PressSec<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, press secretary<br>Religion:Baptist<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Hempstead County<br>Political_Party:Republican Party<br>Sex:female
+[friends]name:PressSec, level:2, nodes:2, edges:0
+[PressSec.friends]name:SeemaCMS, level:2, nodes:2, edges:0
+[not PressSec.friends]name:{'name': 'James Woods', 'verified': True, 'screen_name': 'RealJamesWoods'}, level:2
+[PressSec.friends]name:Heritage, level:2, nodes:3, edges:1
+[PressSec.friends]name:Reince, level:2, nodes:4, edges:2
+[PressSec.friends]name:seanspicer, level:2, nodes:5, edges:3
+[PressSec.friends]name:CBSThisMorning, level:2, nodes:6, edges:4
+[not PressSec.friends]name:{'name': 'Forbes', 'verified': True, 'screen_name': 'Forbes'}, level:2
+[PressSec.friends]name:FT, level:2, nodes:7, edges:5
+[PressSec.friends]name:Marcshort45, level:2, nodes:8, edges:6
+[realDonaldTrump.mention]name:EricTrump, nodes:1, edges:0
+user_screen_name: EricTrump
+user_name: Eric Trump
+[PressSec.friends]name:business, level:2, nodes:9, edges:7
+[not PressSec.friends]name:{'name': 'NSC', 'verified': True, 'screen_name': 'WHNSC'}, level:2
+[not PressSec.friends]name:{'name': 'U.S. Secret Service', 'verified': True, 'screen_name': 'SecretService'}, level:2
+[PressSec.friends]name:JessicaDitto45, level:2, nodes:10, edges:8
+[PressSec.friends]name:NatResources, level:2, nodes:11, edges:9
+[PressSec.friends]name:EmilyMiller, level:2, nodes:12, edges:10
+[PressSec.friends]name:NSAGov, level:2, nodes:13, edges:11
+user_name_search: Eric Trump
+[PressSec.friends]name:DylanByers, level:2, nodes:14, edges:12
+[PressSec.friends]name:USTradeRep, level:2, nodes:15, edges:13
+[PressSec.friends]name:SecretaryAcosta, level:2, nodes:16, edges:14
+[not PressSec.friends]name:{'name': 'Betsy DeVos', 'verified': True, 'screen_name': 'BetsyDeVosED'}, level:2
+[PressSec.friends]name:SBALinda, level:2, nodes:17, edges:15
+[PressSec.friends]name:SecretarySonny, level:2, nodes:18, edges:16
+[PressSec.friends]name:LawrenceBJones3, level:2, nodes:19, edges:17
+[PressSec.friends]name:AaronBlake, level:2, nodes:20, edges:18
+[PressSec.friends]name:Jordanfabian, level:2, nodes:21, edges:19
+[PressSec.friends]name:DavidNakamura, level:2, nodes:22, edges:20
+[PressSec.friends]name:pdoocy, level:2, nodes:23, edges:21
+[PressSec.friends]name:MonicaCrowley, level:2, nodes:24, edges:22
+[PressSec.friends]name:ShannonBream, level:2, nodes:25, edges:23
+[PressSec.friends]name:SteveDoocy, level:2, nodes:26, edges:24
+[PressSec.friends]name:marthamaccallum, level:2, nodes:27, edges:25
+[PressSec.friends]name:kilmeade, level:2, nodes:28, edges:26
+[PressSec.friends]name:kevincorke, level:2, nodes:29, edges:27
+[PressSec.friends]name:BillHemmer, level:2, nodes:30, edges:28
+[PressSec.friends]name:FoxNewsSunday, level:2, nodes:31, edges:29
+None
+[PressSec.friends]name:johnrobertsFox, level:2, nodes:32, edges:30
+[PressSec.friends]name:EliStokols, level:2, nodes:33, edges:31
+[PressSec.friends]name:SenateGOP, level:2, nodes:34, edges:32
+[PressSec.friends]name:apalmerdc, level:2, nodes:35, edges:33
+[PressSec.friends]name:axios, level:2, nodes:36, edges:34
+[PressSec.friends]name:playbookplus, level:2, nodes:37, edges:35
+[PressSec.friends]name:anniekarni, level:2, nodes:38, edges:36
+[PressSec.friends]name:jdawsey1, level:2, nodes:39, edges:37
+[PressSec.friends]name:dlippman, level:2, nodes:40, edges:38
+[PressSec.friends]name:cherylbolen, level:2, nodes:41, edges:39
+[PressSec.friends]name:robertarampton, level:2, nodes:42, edges:40
+[PressSec.friends]name:US_EUCOM, level:2, nodes:43, edges:41
+[PressSec.friends]name:PacificCommand, level:2, nodes:44, edges:42
+[PressSec.friends]name:CENTCOM, level:2, nodes:45, edges:43
+[not PressSec.friends]name:{'name': 'U.S. Coast Guard', 'verified': True, 'screen_name': 'USCG'}, level:2
+[PressSec.friends]name:USArmy, level:2, nodes:46, edges:44
+[not PressSec.friends]name:{'name': 'U.S. Marines', 'verified': True, 'screen_name': 'USMC'}, level:2
+[PressSec.friends]name:yashar, level:2, nodes:47, edges:45
+[not PressSec.friends]name:{'name': 'TIME', 'verified': True, 'screen_name': 'TIME'}, level:2
+[not PressSec.friends]name:{'name': 'Washington Post', 'verified': True, 'screen_name': 'washingtonpost'}, level:2
+[not PressSec.friends]name:{'name': 'NPR', 'verified': True, 'screen_name': 'NPR'}, level:2
+[not PressSec.friends]name:{'name': 'The Wall Street Journal', 'verified': True, 'screen_name': 'WSJ'}, level:2
+[not PressSec.friends]name:{'name': 'The Hill', 'verified': True, 'screen_name': 'thehill'}, level:2
+[PressSec.friends]name:politico, level:2, nodes:48, edges:46
+[PressSec.friends]name:CillizzaCNN, level:2, nodes:49, edges:47
+[PressSec.friends]name:costareports, level:2, nodes:50, edges:48
+[PressSec.friends]name:MarkLandler, level:2, nodes:51, edges:49
+[PressSec.friends]name:juliehdavis, level:2, nodes:52, edges:50
+[PressSec.friends]name:JaredRizzi, level:2, nodes:53, edges:51
+[PressSec.friends]name:shearm, level:2, nodes:54, edges:52
+[PressSec.friends]name:peterbakernyt, level:2, nodes:55, edges:53
+[PressSec.friends]name:joshledermanAP, level:2, nodes:56, edges:54
+[PressSec.friends]name:dsupervilleap, level:2, nodes:57, edges:55
+[not PressSec.friends]name:{'name': 'Paul Ryan', 'verified': True, 'screen_name': 'SpeakerRyan'}, level:2
+[PressSec.friends]name:GOPLeader, level:2, nodes:58, edges:56
+[PressSec.friends]name:FEMA_Brock, level:2, nodes:59, edges:57
+[not PressSec.friends]name:{'name': 'CIA', 'verified': True, 'screen_name': 'CIA'}, level:2
+[not PressSec.friends]name:{'name': 'FBI', 'verified': True, 'screen_name': 'FBI'}, level:2
+[PressSec.friends]name:RedCross, level:2, nodes:60, edges:58
+[PressSec.friends]name:fema, level:2, nodes:61, edges:59
+Name: Eric Trump<br>Screen_name: EricTrump<br>Medical_Condition:None<br>Country:United States of America<br>Profession:businessperson, socialite, television presenter<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:New York City<br>Political_Party:Republican Party<br>Sex:male
+[not PressSec.friends]name:{'name': 'Ricardo Rossello', 'verified': True, 'screen_name': 'ricardorossello'}, level:2
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[not PressSec.friends]name:{'name': 'Dep Sec of Defense', 'verified': True, 'screen_name': 'DepSecDef'}, level:2
+[realDonaldTrump.mention]name:DHSgov, nodes:2, edges:2
+user_screen_name: DHSgov
+user_name: Homeland Security
+[not PressSec.friends]name:{'name': 'Dr. Heather Wilson', 'verified': True, 'screen_name': 'SecAFOfficial'}, level:2
+[not PressSec.friends]name:{'name': 'Gen. Dave Goldfein', 'verified': True, 'screen_name': 'GenDaveGoldfein'}, level:2
+[not PressSec.friends]name:{'name': 'Dana W. White - DoD', 'verified': True, 'screen_name': 'ChiefPentSpox'}, level:2
+[not PressSec.friends]name:{'name': 'USDA Food Safety', 'verified': True, 'screen_name': 'USDAFoodSafety'}, level:2
+[PressSec.friends]name:NIH, level:2, nodes:62, edges:60
+[not PressSec.friends]name:{'name': 'U.S. Surgeon General', 'verified': True, 'screen_name': 'Surgeon_General'}, level:2
+[not PressSec.friends]name:{'name': 'BBC Breaking News', 'verified': True, 'screen_name': 'BBCBreaking'}, level:2
+user_name_search: Homeland security
+[not PressSec.friends]name:{'name': 'CNN Breaking News', 'verified': True, 'screen_name': 'cnnbrk'}, level:2
+[not PressSec.friends]name:{'name': 'The New York Times', 'verified': True, 'screen_name': 'nytimes'}, level:2
+[PressSec.friends]name:justinsink, level:2, nodes:63, edges:61
+[PressSec.friends]name:steveholland1, level:2, nodes:64, edges:62
+[PressSec.friends]name:margarettalev, level:2, nodes:65, edges:63
+[PressSec.friends]name:jeffmason1, level:2, nodes:66, edges:64
+[PressSec.friends]name:KThomasDC, level:2, nodes:67, edges:65
+[PressSec.friends]name:jpaceDC, level:2, nodes:68, edges:66
+[PressSec.friends]name:carolelee, level:2, nodes:69, edges:67
+[PressSec.friends]name:Stcrow, level:2, nodes:70, edges:68
+[PressSec.friends]name:OKnox, level:2, nodes:71, edges:69
+[PressSec.friends]name:dougmillsnyt, level:2, nodes:72, edges:70
+Homeland Security 不是人哈哈哈哈
+Homeland Security wikidata is None
+[realDonaldTrump.mention]name:CustomsBorder, nodes:3, edges:3
+user_screen_name: CustomsBorder
+user_name: CBP
+[PressSec.friends]name:TAPSorg, level:2, nodes:73, edges:71
+[PressSec.friends]name:danmericaCNN, level:2, nodes:74, edges:72
+[PressSec.friends]name:abbydphillip, level:2, nodes:75, edges:73
+[PressSec.friends]name:OANN, level:2, nodes:76, edges:74
+[PressSec.friends]name:TreyYingst, level:2, nodes:77, edges:75
+[PressSec.friends]name:jeneps, level:2, nodes:78, edges:76
+[PressSec.friends]name:JenniferJJacobs, level:2, nodes:79, edges:77
+user_name_search: CBP
+[PressSec.friends]name:TomBossert45, level:2, nodes:80, edges:78
+[PressSec.friends]name:USArmyReserve, level:2, nodes:81, edges:79
+[not PressSec.friends]name:{'name': 'U.S. Coast Guard', 'verified': True, 'screen_name': 'uscoastguard'}, level:2
+[PressSec.friends]name:USNationalGuard, level:2, nodes:82, edges:80
+[PressSec.friends]name:USNavy, level:2, nodes:83, edges:81
+[not PressSec.friends]name:{'name': 'Reuters Top News', 'verified': True, 'screen_name': 'Reuters'}, level:2
+[not PressSec.friends]name:{'name': 'The Associated Press', 'verified': True, 'screen_name': 'AP'}, level:2
+[not PressSec.friends]name:{'name': 'CBS News', 'verified': True, 'screen_name': 'CBSNews'}, level:2
+[PressSec.friends]name:ABC, level:2, nodes:84, edges:82
+[PressSec.friends]name:NBCNews, level:2, nodes:85, edges:83
+[PressSec.friends]name:mitchellreports, level:2, nodes:86, edges:84
+CBP 不是人哈哈哈哈
+CBP wikidata is None
+[PressSec.friends]name:edhenry, level:2, nodes:87, edges:85
+[realDonaldTrump.mention]name:ICEgov, nodes:4, edges:4
+user_screen_name: ICEgov
+user_name: ICE
+[PressSec.friends]name:Acosta, level:2, nodes:88, edges:86
+[PressSec.friends]name:KellyO, level:2, nodes:89, edges:87
+[PressSec.friends]name:MajorCBS, level:2, nodes:90, edges:88
+[PressSec.friends]name:jonkarl, level:2, nodes:91, edges:89
+[PressSec.friends]name:PeterAlexander, level:2, nodes:92, edges:90
+[PressSec.friends]name:kwelkernbc, level:2, nodes:93, edges:91
+[PressSec.friends]name:HallieJackson, level:2, nodes:94, edges:92
+user_name_search: Ice
+[PressSec.friends]name:MarkHalperin, level:2, nodes:95, edges:93
+[PressSec.friends]name:mikeallen, level:2, nodes:96, edges:94
+[PressSec.friends]name:ZekeJMiller, level:2, nodes:97, edges:95
+[PressSec.friends]name:AshleyRParker, level:2, nodes:98, edges:96
+[PressSec.friends]name:PhilipRucker, level:2, nodes:99, edges:97
+[PressSec.friends]name:GlennThrush, level:2, nodes:100, edges:98
+[PressSec.friends]name:chucktodd, level:2, nodes:101, edges:99
+[PressSec.friends]name:jaketapper, level:2, nodes:102, edges:100
+[PressSec.friends]name:maggieNYT, level:2, nodes:103, edges:101
+[not PressSec.friends]name:{'name': 'Neil Cavuto', 'verified': True, 'screen_name': 'TeamCavuto'}, level:2
+[not PressSec.friends]name:{'name': 'Varney & Co.', 'verified': True, 'screen_name': 'Varneyco'}, level:2
+[PressSec.friends]name:LouDobbs, level:2, nodes:104, edges:102
+[PressSec.friends]name:IngrahamAngle, level:2, nodes:105, edges:103
+[not PressSec.friends]name:{'name': 'Rick Perry', 'verified': True, 'screen_name': 'GovernorPerry'}, level:2
+[PressSec.friends]name:DanaPerino, level:2, nodes:106, edges:104
+[PressSec.friends]name:greta, level:2, nodes:107, edges:105
+[PressSec.friends]name:BretBaier, level:2, nodes:108, edges:106
+[not PressSec.friends]name:{'name': 'Tucker Carlson', 'verified': True, 'screen_name': 'TuckerCarlson'}, level:2
+[PressSec.friends]name:newtgingrich, level:2, nodes:109, edges:107
+[PressSec.friends]name:GovMikeHuckabee, level:2, nodes:110, edges:108
+ICE 不是人哈哈哈哈
+ICE wikidata is None
+[PressSec.friends]name:AmbJohnBolton, level:2, nodes:111, edges:109
+[realDonaldTrump.mention]name:USCIS, nodes:5, edges:5
+user_screen_name: USCIS
+user_name: USCIS
+[not PressSec.friends]name:{'name': 'Jay Sekulow', 'verified': True, 'screen_name': 'JaySekulow'}, level:2
+[PressSec.friends]name:usairforce, level:2, nodes:112, edges:110
+[not PressSec.friends]name:{'name': 'Leader McConnell', 'verified': True, 'screen_name': 'SenateMajLdr'}, level:2
+[PressSec.friends]name:KellyannePolls, level:2, nodes:113, edges:111
+[PressSec.friends]name:seanhannity, level:2, nodes:114, edges:112
+[not PressSec.friends]name:{'name': 'CNN', 'verified': True, 'screen_name': 'CNN'}, level:2
+user_name_search: United States Citizenship and Immigration Services
+[PressSec.friends]name:FoxNews, level:2, nodes:115, edges:113
+[PressSec.friends]name:foxandfriends, level:2, nodes:116, edges:114
+[PressSec.friends]name:IvankaTrump, level:2, nodes:117, edges:115
+[PressSec.friends]name:EricTrump, level:2, nodes:118, edges:116
+[PressSec.friends]name:DonaldJTrumpJr, level:2, nodes:119, edges:117
+[PressSec.friends]name:thejointstaff, level:2, nodes:120, edges:118
+[PressSec.friends]name:PentagonPresSec, level:2, nodes:121, edges:119
+[PressSec.friends]name:statedeptspox, level:2, nodes:122, edges:120
+[PressSec.friends]name:StephGrisham45, level:2, nodes:123, edges:121
+[PressSec.friends]name:VPComDir, level:2, nodes:124, edges:122
+[PressSec.friends]name:USDOT, level:2, nodes:125, edges:123
+[PressSec.friends]name:USUN, level:2, nodes:126, edges:124
+USCIS 不是人哈哈哈哈
+USCIS wikidata is None
+[PressSec.friends]name:ENERGY, level:2, nodes:127, edges:125
+[realDonaldTrump.mention]name:HHSGov, nodes:6, edges:6
+user_screen_name: HHSGov
+user_name: HHS.gov
+[PressSec.friends]name:SBAgov, level:2, nodes:128, edges:126
+[PressSec.friends]name:USTreasury, level:2, nodes:129, edges:127
+[PressSec.friends]name:CommerceGov, level:2, nodes:130, edges:128
+[PressSec.friends]name:DeptVetAffairs, level:2, nodes:131, edges:129
+[PressSec.friends]name:Interior, level:2, nodes:132, edges:130
+[PressSec.friends]name:TheJusticeDept, level:2, nodes:133, edges:131
+[PressSec.friends]name:DeptofDefense, level:2, nodes:134, edges:132
+user_name_search: Assistant Secretary for Planning and Evaluation
+[PressSec.friends]name:USDA, level:2, nodes:135, edges:133
+[PressSec.friends]name:HHSGov, level:2, nodes:136, edges:134
+[PressSec.friends]name:USTradeRep44, level:2, nodes:137, edges:135
+[PressSec.friends]name:usedgov, level:2, nodes:138, edges:136
+[PressSec.friends]name:USDOL, level:2, nodes:139, edges:137
+[PressSec.friends]name:DHSgov, level:2, nodes:140, edges:138
+[not PressSec.friends]name:{'name': 'U.S. EPA', 'verified': True, 'screen_name': 'EPA'}, level:2
+[PressSec.friends]name:StateDept, level:2, nodes:141, edges:139
+[PressSec.friends]name:Reince45, level:2, nodes:142, edges:140
+[PressSec.friends]name:Cabinet, level:2, nodes:143, edges:141
+******get PressSec-Sec. Wilbur Ross friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=10672409634507590838&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740588&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&source_screen_name=PressSec&target_screen_name=SecretaryRoss&oauth_signature=fm4B1Z79s%2B6e3iSMnIw6Caoa5nk%3D)
+details: {'errors': [{'message': 'Rate limit exceeded', 'code': 88}]}
+HHS.gov 不是人哈哈哈哈
+HHS.gov wikidata is None
+[realDonaldTrump.mention]name:foxandfriends, nodes:7, edges:7
+user_screen_name: foxandfriends
+user_name: FOX & friends
+user_name_search: Fox & Friends
+FOX & friends 不是人哈哈哈哈
+FOX & friends wikidata is None
+[realDonaldTrump.mention]name:wef, nodes:8, edges:8
+user_screen_name: wef
+user_name: World Economic Forum
+user_name_search: World Economic Forum
+World Economic Forum 不是人哈哈哈哈
+World Economic Forum wikidata is None
+[realDonaldTrump.mention]name:alain_berset, nodes:9, edges:9
+user_screen_name: alain_berset
+user_name: Alain Berset
+user_name_search: Alain Berset
+None
+Name: Alain Berset<br>Screen_name: alain_berset<br>Medical_Condition:None<br>Country:Switzerland<br>Profession:politician, economist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Fribourg<br>Political_Party:Social Democratic Party of Switzerland<br>Sex:male
+[realDonaldTrump.mention]name:SquawkCNBC, nodes:10, edges:10
+user_screen_name: SquawkCNBC
+user_name: Squawk Box
+user_name_search: Squawk Box
+Squawk Box 不是人哈哈哈哈
+Squawk Box wikidata is None
+[realDonaldTrump.mention]name:JoeSquawk, nodes:11, edges:11
+user_screen_name: JoeSquawk
+user_name: Joe Kernen
+user_name_search: Joe Kernen
+None
+Name: Joe Kernen<br>Screen_name: JoeSquawk<br>Medical_Condition:None<br>Country:United States of America<br>Profession:stockbroker<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Cincinnati<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:NASA, nodes:12, edges:12
+user_screen_name: NASA
+user_name: NASA
+user_name_search: NASA
+NASA 不是人哈哈哈哈
+NASA wikidata is None
+[realDonaldTrump.mention]name:netanyahu, nodes:13, edges:13
+user_screen_name: netanyahu
+user_name: Benjamin Netanyahu
+user_name_search: Benjamin Netanyahu
+None
+Name: Benjamin Netanyahu<br>Screen_name: netanyahu<br>Medical_Condition:None<br>Country:Israel<br>Profession:politician, diplomat, political writer, statesman, military<br> &nbsp &nbsp &nbsp &nbsp &nbsp  personnel<br>Religion:Judaism<br>Marital_Status:Sara Netanyahu, Miki Haran, Fleur Cates<br>Economical_Condition:None<br>Academic_Degree:Bachelor of Science, Master of Science<br>Race:Jewish people, Ashkenazi Jews, Israeli Jews<br>HomeTown:Tel Aviv<br>Political_Party:Likud<br>Sex:male
+[realDonaldTrump.mention]name:GovMattBevin, nodes:14, edges:14
+user_screen_name: GovMattBevin
+user_name: Governor Matt Bevin
+user_name_search: Matt Bevin
+None
+Name: Governor Matt Bevin<br>Screen_name: GovMattBevin<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, businessperson<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Kentucky<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:FoxNews, nodes:15, edges:15
+user_screen_name: FoxNews
+user_name: Fox News
+user_name_search: Fox News
+Fox News 不是人哈哈哈哈
+Fox News wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:KellyannePolls, nodes:16, edges:20
+user_screen_name: KellyannePolls
+user_name: Kellyanne Conway
+user_name_search: Kellyanne Conway
+None
+Name: Kellyanne Conway<br>Screen_name: KellyannePolls<br>Medical_Condition:None<br>Country:United States of America<br>Profession:lawyer, campaign manager<br>Religion:None<br>Marital_Status:George T. Conway III<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Camden<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention]name:POTUS, nodes:17, edges:21
+user_screen_name: POTUS
+user_name: President Trump
+user_name_search: Donald Trump
+{'unit': 'http://www.wikidata.org/entity/Q4917', 'amount': '+4500000000'}
+Name: President Trump<br>Screen_name: POTUS<br>Medical_Condition:None<br>Country:United States of America<br>Profession:business magnate, investor, restaurateur, non-fiction write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r, entrepreneur, politician, businessperson, property developer, game <br> &nbsp &nbsp &nbsp &nbsp &nbsp show host, political writer, statesman, real estate entrepreneur, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision producer, film producer, writer, actor, film actor, chief execu<br> &nbsp &nbsp &nbsp &nbsp &nbsp tive officer<br>Religion:Presbyterianism<br>Marital_Status:Ivana Trump, Melania Trump, Marla Maples<br>Economical_Condition:$4500000000<br>Academic_Degree:Bachelor of Science<br>Race:White American, German American<br>HomeTown:NYC, New York, United States of America<br>Political_Party:Republican Party, Republican Party, Republican Party, <br> &nbsp &nbsp &nbsp &nbsp &nbsp Independence Party of America, Democratic Party, independent politicia<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:davidwebbshow, nodes:18, edges:23
+user_screen_name: davidwebbshow
+user_name: David Webb
+user_name_search: David Webb
+David Webb 不是人哈哈哈哈
+David Webb wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:JudgeJeanine, nodes:19, edges:26
+user_screen_name: JudgeJeanine
+user_name: Jeanine Pirro
+user_name_search: Jeanine Pirro
+None
+Name: Jeanine Pirro<br>Screen_name: JudgeJeanine<br>Medical_Condition:None<br>Country:United States of America<br>Profession:lawyer, news presenter, judge, politician, television prese<br> &nbsp &nbsp &nbsp &nbsp &nbsp nter, prosecutor<br>Religion:None<br>Marital_Status:Albert Pirro<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Elmira<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:SenSchumer, nodes:20, edges:28
+user_screen_name: SenSchumer
+user_name: Chuck Schumer
+user_name_search: Chuck Schumer
+None
+Name: Chuck Schumer<br>Screen_name: SenSchumer<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:Judaism<br>Marital_Status:Iris Weinshall<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Brooklyn<br>Political_Party:Democratic Party<br>Sex:male
+[realDonaldTrump.mention]name:March_for_Life, nodes:21, edges:29
+user_screen_name: March_for_Life
+user_name: March for Life
+user_name_search: March for Life
+March for Life 不是人哈哈哈哈
+March for Life wikidata is None
+[realDonaldTrump.mention]name:WhiteHouse, nodes:22, edges:30
+user_screen_name: WhiteHouse
+user_name: The White House
+user_name_search: White House
+The White House 不是人哈哈哈哈
+The White House wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:StJude, nodes:23, edges:34
+user_screen_name: StJude
+user_name: St. Jude
+user_name_search: Jude the Apostle
+None
+Name: St. Jude<br>Screen_name: StJude<br>Medical_Condition:None<br>Country:ancient Rome<br>Profession:Catholic priest<br>Religion:Catholic Church<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Jewish people<br>HomeTown:Galilee<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:Heritage, nodes:24, edges:36
+user_screen_name: Heritage
+user_name: Heritage Foundation
+user_name_search: The Heritage Foundation
+Heritage Foundation 不是人哈哈哈哈
+Heritage Foundation wikidata is None
+[realDonaldTrump.mention]name:IvankaTrump, nodes:25, edges:37
+user_screen_name: IvankaTrump
+user_name: Ivanka Trump
+user_name_search: Ivanka Trump
+None
+Name: Ivanka Trump<br>Screen_name: IvankaTrump<br>Medical_Condition:None<br>Country:United States of America<br>Profession:businessperson, model, non-fiction writer, politician, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision presenter<br>Religion:Orthodox Judaism, Catholicism, Judaism<br>Marital_Status:Jared Kushner<br>Economical_Condition:None<br>Academic_Degree:Bachelor of Science, Bachelor of Arts<br>Race:None<br>HomeTown:New York City<br>Political_Party:independent politician<br>Sex:female
+[realDonaldTrump.mention]name:KayColesJames, nodes:26, edges:38
+user_screen_name: KayColesJames
+user_name: Kay Coles James
+user_name_search: Kay Coles James
+None
+Name: Kay Coles James<br>Screen_name: KayColesJames<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:African Americans<br>HomeTown:Portsmouth<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:paulsperry_, nodes:27, edges:40
+[realDonaldTrump.mention(exist)]name:{'name': 'Paul Sperry', 'screen_name': 'paulsperry_'}
+[realDonaldTrump.mention]name:JackPosobiec, nodes:28, edges:42
+user_screen_name: JackPosobiec
+user_name: Jack Posobiec 🇺🇸
+user_name_search: Jack Posobiec
+None
+Name: Jack Posobiec 🇺🇸<br>Screen_name: JackPosobiec<br>Medical_Condition:None<br>Country:United States of America<br>Profession:Internet activist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Norristown<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:LouDobbs, nodes:29, edges:43
+user_screen_name: LouDobbs
+user_name: Lou Dobbs
+user_name_search: Lou Dobbs
+None
+Name: Lou Dobbs<br>Screen_name: LouDobbs<br>Medical_Condition:None<br>Country:United States of America<br>Profession:radio personality, news presenter, journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Childress<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:Cabinet, nodes:30, edges:48
+user_screen_name: Cabinet
+user_name: The Cabinet
+user_name_search: Cabinet
+The Cabinet 不是人哈哈哈哈
+The Cabinet wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'ICE', 'screen_name': 'ICEgov'}
+[realDonaldTrump.mention]name:GOPLeader, nodes:31, edges:50
+user_screen_name: GOPLeader
+user_name: Kevin McCarthy
+user_name_search: Kevin McCarthy (actor)
+None
+Name: Kevin McCarthy<br>Screen_name: GOPLeader<br>Medical_Condition:None<br>Country:United States of America<br>Profession:film actor, stage actor, television actor<br>Religion:None<br>Marital_Status:Augusta Dabney<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Irish American<br>HomeTown:Seattle<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:Scavino45, nodes:32, edges:51
+user_screen_name: Scavino45
+user_name: Dan Scavino Jr.🇺🇸
+user_name_search: Dan Scavino
+None
+Name: Dan Scavino Jr.🇺🇸<br>Screen_name: Scavino45<br>Medical_Condition:None<br>Country:United States of America<br>Profession:None<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:None<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:FarmBureau, nodes:33, edges:52
+user_screen_name: FarmBureau
+user_name: American Farm Bureau
+user_name_search: American Farm Bureau Federation
+American Farm Bureau 不是人哈哈哈哈
+American Farm Bureau wikidata is None
+[realDonaldTrump.mention]name:dcsheriff, nodes:34, edges:53
+user_screen_name: dcsheriff
+user_name: DC Sheriff
+user_name_search: The Sheriff of Babylon
+******get The Sheriff of Babylon wikidata ERROR: https://www.wikidata.org/w/api.php?action=wbgetentities&formatversion=2&languages=en&props=aliases|info|claims|descriptions|labels|sitelinks&redirects=yes&sites=enwiki&titles=The%20Sheriff%20of%20Babylon
+user_name_search: The Sheriff of Babylon
+******get The Sheriff of Babylon wikidata ERROR: https://www.wikidata.org/w/api.php?action=wbgetentities&formatversion=2&languages=en&props=aliases|info|claims|descriptions|labels|sitelinks&redirects=yes&sites=enwiki&titles=The%20Sheriff%20of%20Babylon
+更换search name为:  Tom King (comics)
+user_name_search: Tom King (comics)
+None
+Name: DC Sheriff<br>Screen_name: dcsheriff<br>Medical_Condition:None<br>Country:United States of America<br>Profession:comics writer, novelist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:None<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:charliekirk11, nodes:35, edges:54
+user_screen_name: charliekirk11
+user_name: Charlie Kirk
+user_name_search: Charlie Kirk
+None
+Name: Charlie Kirk<br>Screen_name: charliekirk11<br>Medical_Condition:None<br>Country:United Kingdom<br>Profession:association football player<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Winsford<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:CBS, nodes:36, edges:55
+user_screen_name: CBS
+user_name: CBS
+user_name_search: CBS
+CBS 不是人哈哈哈哈
+CBS wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Charlie Kirk', 'screen_name': 'charliekirk11'}
+[realDonaldTrump.mention]name:FoxBusiness, nodes:37, edges:57
+user_screen_name: FoxBusiness
+user_name: FOX Business
+user_name_search: Fox Business Network
+FOX Business 不是人哈哈哈哈
+FOX Business wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Charlie Kirk', 'screen_name': 'charliekirk11'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Charlie Kirk', 'screen_name': 'charliekirk11'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:DanScavino, nodes:38, edges:61
+user_screen_name: DanScavino
+user_name: Dan Scavino Jr.
+user_name_search: Dan Scavino
+None
+Name: Dan Scavino Jr.<br>Screen_name: DanScavino<br>Medical_Condition:None<br>Country:United States of America<br>Profession:None<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:None<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:PinstripeBowl, nodes:39, edges:62
+user_screen_name: PinstripeBowl
+user_name: NewEraPinstripeBowl
+user_name_search: Pinstripe Bowl
+NewEraPinstripeBowl 不是人哈哈哈哈
+NewEraPinstripeBowl wikidata is None
+[realDonaldTrump.mention]name:HawkeyeFootball, nodes:40, edges:63
+user_screen_name: HawkeyeFootball
+user_name: Hawkeye Football
+user_name_search: Iowa Hawkeyes football
+Hawkeye Football 不是人哈哈哈哈
+Hawkeye Football wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=11867652964513083797&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740905&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=G2lqiOPaayLuNz0k%2Bhi8E%2B2yyQY%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******user/show请求数据出错，但不是请求次数过多的问题！！！
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=9093652764613185846&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740916&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=dsnv%2B8HBRaP8MQV5EfU8tMa3OgM%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******user/show请求数据出错，但不是请求次数过多的问题！！！
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=9663312377524579767&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740926&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=tyym04etaETQMFJ60Evp0wNQ8aw%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******user/show请求数据出错，但不是请求次数过多的问题！！！
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=12536634708831233093&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740937&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=KleNbwo5jTEw31NolzBrDaorgjA%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******user/show请求数据出错，但不是请求次数过多的问题！！！
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=10163054292496330966&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740947&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=cH77VZdSiLAQN5CduZPsEm4tlgA%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******user/show请求数据出错，但不是请求次数过多的问题！！！
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=13269759589540509881&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740958&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=LV6HI6ppni1s3w4KFwRcdm36stQ%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******user/show请求数据出错，但不是请求次数过多的问题！！！
+******get foxandfrlends user_show ERROR: Twitter sent status 403 for URL: 1.1/users/show.json using parameters: (include_entities=False&oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=16442015090245765398&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517740968&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&screen_name=foxandfrlends&oauth_signature=Nti7Dkt%2B7%2FT9gkUlxg1bnNrhLLs%3D)
+details: {'errors': [{'message': 'User has been suspended.', 'code': 63}]}
+******当前用户不存在！！结束当前请求！！！！！
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:shawgerald4, nodes:41, edges:67
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention]name:SenateMajLdr, nodes:42, edges:73
+user_screen_name: SenateMajLdr
+user_name: Leader McConnell
+user_name_search: Mitch McConnell
+None
+Name: Leader McConnell<br>Screen_name: SenateMajLdr<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, lawyer, judge<br>Religion:Baptist<br>Marital_Status:Elaine Chao, Sherrill Redmon<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Tuscumbia<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:washingtonpost, nodes:43, edges:74
+user_screen_name: washingtonpost
+user_name: Washington Post
+user_name_search: The Washington Post
+Washington Post 不是人哈哈哈哈
+Washington Post wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention]name:RepKristiNoem, nodes:44, edges:76
+user_screen_name: RepKristiNoem
+user_name: Rep. Kristi Noem
+user_name_search: Kristi Noem
+None
+Name: Rep. Kristi Noem<br>Screen_name: RepKristiNoem<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, rancher, beauty pageant contestant<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Watertown<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention]name:SpeakerRyan, nodes:45, edges:77
+user_screen_name: SpeakerRyan
+user_name: Paul Ryan
+user_name_search: Paul Ryan
+None
+Name: Paul Ryan<br>Screen_name: SpeakerRyan<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:Catholic Church<br>Marital_Status:Janna Little<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Janesville<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:PressSec, nodes:46, edges:78
+user_screen_name: PressSec
+user_name: Sarah Sanders
+user_name_search: Sarah Huckabee Sanders
+None
+Name: Sarah Sanders<br>Screen_name: PressSec<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, press secretary<br>Religion:Baptist<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Hempstead County<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:GOPChairwoman, nodes:47, edges:80
+user_screen_name: GOPChairwoman
+user_name: Ronna McDaniel
+user_name_search: Ronna Romney McDaniel
+None
+Name: Ronna McDaniel<br>Screen_name: GOPChairwoman<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Austin<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:ShopFloorNAM, nodes:48, edges:81
+user_screen_name: ShopFloorNAM
+user_name: The NAM
+user_name_search: The 'Nam
+The NAM 不是人哈哈哈哈
+The NAM wikidata is None
+[realDonaldTrump.mention]name:nytimes, nodes:49, edges:82
+user_screen_name: nytimes
+user_name: The New York Times
+user_name_search: The New York Times
+The New York Times 不是人哈哈哈哈
+The New York Times wikidata is None
+[realDonaldTrump.mention]name:daveweigel, nodes:50, edges:83
+user_screen_name: daveweigel
+user_name: Dave Weigel
+user_name_search: David Weigel
+None
+Name: Dave Weigel<br>Screen_name: daveweigel<br>Medical_Condition:None<br>Country:United States of America<br>Profession:journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Wilmington<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Dave Weigel', 'screen_name': 'daveweigel'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Washington Post', 'screen_name': 'washingtonpost'}
+[realDonaldTrump.mention]name:USArmy, nodes:51, edges:86
+user_screen_name: USArmy
+user_name: U.S. Army
+user_name_search: United States Army
+U.S. Army 不是人哈哈哈哈
+U.S. Army wikidata is None
+[realDonaldTrump.mention]name:USNavy, nodes:52, edges:87
+user_screen_name: USNavy
+user_name: U.S. Navy
+user_name_search: United States Navy
+U.S. Navy 不是人哈哈哈哈
+U.S. Navy wikidata is None
+[realDonaldTrump.mention]name:PhilBryantMS, nodes:53, edges:88
+user_screen_name: PhilBryantMS
+user_name: Phil Bryant
+user_name_search: Phil Bryant
+None
+Name: Phil Bryant<br>Screen_name: PhilBryantMS<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:United Methodist Church<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Moorhead<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:FLOTUS, nodes:54, edges:90
+user_screen_name: FLOTUS
+user_name: Melania Trump
+user_name_search: Melania Trump
+None
+Name: Melania Trump<br>Screen_name: FLOTUS<br>Medical_Condition:None<br>Country:Slovenia, United States of America, Socialist Federal Republic<br> &nbsp &nbsp &nbsp &nbsp &nbsp  of Yugoslavia<br>Profession:model, jewellery designer<br>Religion:Catholic Church, Christianity<br>Marital_Status:Donald Trump<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Slovene American<br>HomeTown:Novo Mesto<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:ChuckGrassley, nodes:55, edges:95
+user_screen_name: ChuckGrassley
+user_name: ChuckGrassley
+user_name_search: Chuck Grassley
+None
+Name: ChuckGrassley<br>Screen_name: ChuckGrassley<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:Baptist<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:New Hartford<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Paul Sperry', 'screen_name': 'paulsperry_'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Paul Sperry', 'screen_name': 'paulsperry_'}
+[realDonaldTrump.mention]name:GovChristie, nodes:56, edges:101
+user_screen_name: GovChristie
+user_name: Governor Christie
+user_name_search: Chris Christie
+None
+Name: Governor Christie<br>Screen_name: GovChristie<br>Medical_Condition:None<br>Country:United States of America<br>Profession:lawyer, politician<br>Religion:Catholicism<br>Marital_Status:Mary Pat Christie<br>Economical_Condition:None<br>Academic_Degree:Bachelor of Arts, Juris Doctor<br>Race:None<br>HomeTown:Newark<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sarah Sanders', 'screen_name': 'PressSec'}
+[realDonaldTrump.mention]name:ABC, nodes:57, edges:104
+user_screen_name: ABC
+user_name: ABC News
+user_name_search: ABC News
+ABC News 不是人哈哈哈哈
+ABC News wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:senorrinhatch, nodes:58, edges:107
+user_screen_name: senorrinhatch
+user_name: Senator Hatch Office
+user_name_search: Orrin Hatch
+None
+Name: Senator Hatch Office<br>Screen_name: senorrinhatch<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, priest, lawyer, cleric, hymnwriter<br>Religion:Mormonism, The Church of Jesus Christ of Latter-day Saints<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Pittsburgh<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention]name:theresa_may, nodes:59, edges:110
+user_screen_name: theresa_may
+user_name: Theresa May
+user_name_search: Theresa May
+None
+Name: Theresa May<br>Screen_name: theresa_may<br>Medical_Condition:type 1 diabetes mellitus<br>Country:United Kingdom<br>Profession:politician, statesman<br>Religion:Anglicanism<br>Marital_Status:Philip May<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Eastbourne<br>Political_Party:Conservative Party<br>Sex:female
+[realDonaldTrump.mention]name:JBA_NAFW, nodes:60, edges:111
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:narendramodi, nodes:61, edges:114
+user_screen_name: narendramodi
+user_name: Narendra Modi
+user_name_search: Narendra Modi
+None
+Name: Narendra Modi<br>Screen_name: narendramodi<br>Medical_Condition:None<br>Country:India<br>Profession:politician<br>Religion:Hinduism<br>Marital_Status:Jashodaben Narendrabhai Modi<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Gujarati people<br>HomeTown:Vadnagar<br>Political_Party:Bharatiya Janata Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:GES2017, nodes:62, edges:117
+user_screen_name: GES2017
+user_name: GES2017
+user_name_search: General Electric
+GES2017 不是人哈哈哈哈
+GES2017 wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Leader McConnell', 'screen_name': 'SenateMajLdr'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Paul Ryan', 'screen_name': 'SpeakerRyan'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:statedeptspox, nodes:63, edges:124
+user_screen_name: statedeptspox
+user_name: Heather Nauert
+user_name_search: Heather Nauert
+None
+Name: Heather Nauert<br>Screen_name: statedeptspox<br>Medical_Condition:None<br>Country:United States of America<br>Profession:news presenter, journalist, consultant<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Americans<br>HomeTown:Rockford<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Joint Base Andrews', 'screen_name': 'JBA_NAFW'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:WSJ, nodes:64, edges:129
+user_screen_name: WSJ
+user_name: The Wall Street Journal
+user_name_search: The Wall Street Journal
+The Wall Street Journal 不是人哈哈哈哈
+The Wall Street Journal wikidata is None
+[realDonaldTrump.mention]name:CFPB, nodes:65, edges:130
+user_screen_name: CFPB
+user_name: consumerfinance.gov
+user_name_search: David Silberman (government administrator)
+None
+Name: consumerfinance.gov<br>Screen_name: CFPB<br>Medical_Condition:None<br>Country:None<br>Profession:None<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:None<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:DeptofDefense, nodes:66, edges:131
+user_screen_name: DeptofDefense
+user_name: U.S. Dept of Defense
+user_name_search: Project VOLAR
+U.S. Dept of Defense 不是人哈哈哈哈
+U.S. Dept of Defense wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Army', 'screen_name': 'USArmy'}
+[realDonaldTrump.mention]name:USNationalGuard, nodes:67, edges:133
+user_screen_name: USNationalGuard
+user_name: National Guard
+user_name_search: National Guard
+National Guard 不是人哈哈哈哈
+National Guard wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention]name:USCG, nodes:68, edges:137
+user_screen_name: USCG
+user_name: U.S. Coast Guard
+user_name_search: United States Coast Guard
+U.S. Coast Guard 不是人哈哈哈哈
+U.S. Coast Guard wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Coast Guard', 'screen_name': 'USCG'}
+[realDonaldTrump.mention]name:ThePlumLineGS, nodes:69, edges:139
+user_screen_name: ThePlumLineGS
+user_name: Greg Sargent
+user_name_search: Marriages (band)
+Greg Sargent 不是人哈哈哈哈
+Greg Sargent wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Navy', 'screen_name': 'USNavy'}
+[realDonaldTrump.mention]name:IngrahamAngle, nodes:70, edges:144
+user_screen_name: IngrahamAngle
+user_name: Laura Ingraham
+user_name_search: Laura Ingraham
+None
+Name: Laura Ingraham<br>Screen_name: IngrahamAngle<br>Medical_Condition:None<br>Country:United States of America<br>Profession:radio personality, television presenter, lawyer, journalist<br> &nbsp &nbsp &nbsp &nbsp &nbsp <br>Religion:Catholic Church<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Glastonbury<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention]name:Varneyco, nodes:71, edges:147
+user_screen_name: Varneyco
+user_name: Varney & Co.
+user_name_search: Varney & Co.
+Varney & Co. 不是人哈哈哈哈
+Varney & Co. wikidata is None
+[realDonaldTrump.mention]name:greta, nodes:72, edges:148
+user_screen_name: greta
+user_name: Greta Van Susteren
+user_name_search: Greta Van Susteren
+None
+Name: Greta Van Susteren<br>Screen_name: greta<br>Medical_Condition:None<br>Country:United States of America<br>Profession:television presenter, lawyer, journalist<br>Religion:Scientology<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Appleton<br>Political_Party:None<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:piersmorgan, nodes:73, edges:149
+user_screen_name: piersmorgan
+user_name: Piers Morgan
+user_name_search: Piers Morgan
+None
+Name: Piers Morgan<br>Screen_name: piersmorgan<br>Medical_Condition:None<br>Country:United Kingdom<br>Profession:journalist, television presenter, diarist<br>Religion:Catholic Church<br>Marital_Status:Celia Walden<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Guildford<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention]name:CNN, nodes:74, edges:153
+user_screen_name: CNN
+user_name: CNN
+user_name_search: CNN
+CNN 不是人哈哈哈哈
+CNN wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:PChowka, nodes:75, edges:158
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:PacificCommand, nodes:76, edges:159
+user_screen_name: PacificCommand
+user_name: U.S. Pacific Command
+user_name_search: United States Pacific Command
+U.S. Pacific Command 不是人哈哈哈哈
+U.S. Pacific Command wikidata is None
+[realDonaldTrump.mention]name:USSArizona, nodes:77, edges:160
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:RandPaul, nodes:78, edges:162
+user_screen_name: RandPaul
+user_name: Senator Rand Paul
+user_name_search: Rand Paul
+None
+Name: Senator Rand Paul<br>Screen_name: RandPaul<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, physician, ophthalmologist<br>Religion:Presbyterianism<br>Marital_Status:Kelley Paul<br>Economical_Condition:None<br>Academic_Degree:Doctor of Medicine<br>Race:None<br>HomeTown:Pittsburgh<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention]name:BillyGraham, nodes:79, edges:165
+user_screen_name: BillyGraham
+user_name: Billy Graham
+user_name_search: Billy Graham
+None
+Name: Billy Graham<br>Screen_name: BillyGraham<br>Medical_Condition:Parkinsons disease<br>Country:United States of America<br>Profession:theologian, autobiographer, cleric<br>Religion:None<br>Marital_Status:Ruth Graham<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Charlotte<br>Political_Party:Democratic Party<br>Sex:male
+[realDonaldTrump.mention]name:EdWGillespie, nodes:80, edges:166
+user_screen_name: EdWGillespie
+user_name: Ed Gillespie
+user_name_search: Ed Gillespie
+None
+Name: Ed Gillespie<br>Screen_name: EdWGillespie<br>Medical_Condition:None<br>Country:United States of America<br>Profession:lobbyist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Mount Holly Township<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Ed Gillespie', 'screen_name': 'EdWGillespie'}
+[realDonaldTrump.mention]name:AbeShinzo, nodes:81, edges:168
+user_screen_name: AbeShinzo
+user_name: 安倍晋三
+user_name_search: Shinzō Abe
+None
+Name: 安倍晋三<br>Screen_name: AbeShinzo<br>Medical_Condition:None<br>Country:Japan<br>Profession:politician<br>Religion:None<br>Marital_Status:Akie Abe<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Nagato<br>Political_Party:Liberal Democratic Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:USForcesJapan, nodes:82, edges:169
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Pacific Command', 'screen_name': 'PacificCommand'}
+[realDonaldTrump.mention(exist)]name:{'name': 'USSArizona', 'screen_name': 'USSArizona'}
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Pacific Command', 'screen_name': 'PacificCommand'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Laura Ingraham', 'screen_name': 'IngrahamAngle'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:TuckerCarlson, nodes:83, edges:176
+user_screen_name: TuckerCarlson
+user_name: Tucker Carlson
+user_name_search: Tucker Carlson
+None
+Name: Tucker Carlson<br>Screen_name: TuckerCarlson<br>Medical_Condition:None<br>Country:United States of America<br>Profession:pundit, columnist, television presenter, journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:San Francisco<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:Broadcom, nodes:84, edges:177
+user_screen_name: Broadcom
+user_name: Broadcom Limited
+user_name_search: Broadcom Limited
+Broadcom Limited 不是人哈哈哈哈
+Broadcom Limited wikidata is None
+[realDonaldTrump.mention]name:astros, nodes:85, edges:178
+user_screen_name: astros
+user_name: Houston Astros
+user_name_search: Houston Astros
+Houston Astros 不是人哈哈哈哈
+Houston Astros wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'The Cabinet', 'screen_name': 'Cabinet'}
+[realDonaldTrump.mention]name:garyplayer, nodes:86, edges:180
+user_screen_name: garyplayer
+user_name: Gary Player
+user_name_search: Gary Player
+None
+Name: Gary Player<br>Screen_name: garyplayer<br>Medical_Condition:None<br>Country:South Africa<br>Profession:golfer<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Johannesburg<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Leader McConnell', 'screen_name': 'SenateMajLdr'}
+[realDonaldTrump.mention]name:SenateGOP, nodes:87, edges:182
+user_screen_name: SenateGOP
+user_name: Senate Republicans
+user_name_search: Party leaders of the United States Senate
+Senate Republicans 不是人哈哈哈哈
+Senate Republicans wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Leader McConnell', 'screen_name': 'SenateMajLdr'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Senate Republicans', 'screen_name': 'SenateGOP'}
+[realDonaldTrump.mention]name:NYGovCuomo, nodes:88, edges:185
+user_screen_name: NYGovCuomo
+user_name: Andrew Cuomo
+user_name_search: Andrew Cuomo
+None
+Name: Andrew Cuomo<br>Screen_name: NYGovCuomo<br>Medical_Condition:None<br>Country:United States of America<br>Profession:lawyer, politician<br>Religion:Catholicism<br>Marital_Status:Kerry Kennedy<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Italian American<br>HomeTown:Queens<br>Political_Party:Democratic Party<br>Sex:male
+[realDonaldTrump.mention]name:NYCMayor, nodes:89, edges:186
+user_screen_name: NYCMayor
+user_name: Bill de Blasio
+user_name_search: Bill de Blasio
+None
+Name: Bill de Blasio<br>Screen_name: NYCMayor<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, lawyer<br>Religion:None<br>Marital_Status:Chirlane McCray<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Manhattan<br>Political_Party:Democratic Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Andrew Cuomo', 'screen_name': 'NYGovCuomo'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Bill de Blasio', 'screen_name': 'NYCMayor'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention]name:LuisRiveraMarin, nodes:90, edges:192
+user_screen_name: LuisRiveraMarin
+user_name: Luis Rivera Marín
+user_name_search: Luis G. Rivera Marín
+None
+Name: Luis Rivera Marín<br>Screen_name: LuisRiveraMarin<br>Medical_Condition:None<br>Country:None<br>Profession:None<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:None<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention]name:TheLeeGreenwood, nodes:91, edges:194
+user_screen_name: TheLeeGreenwood
+user_name: Lee Greenwood
+user_name_search: Lee Greenwood
+None
+Name: Lee Greenwood<br>Screen_name: TheLeeGreenwood<br>Medical_Condition:None<br>Country:United States of America<br>Profession:singer-songwriter, musician, singer<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:California<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:FLGovScott, nodes:92, edges:196
+user_screen_name: FLGovScott
+user_name: Rick Scott
+user_name_search: Rick Scott
+None
+Name: Rick Scott<br>Screen_name: FLGovScott<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, entrepreneur, lawyer, businessperson<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Bloomington<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Lee Greenwood', 'screen_name': 'TheLeeGreenwood'}
+[realDonaldTrump.mention]name:Joy_Villa, nodes:93, edges:198
+user_screen_name: Joy_Villa
+user_name: Joy Villa
+user_name_search: Joy Villa
+[PressSec.friends]name:SecretaryRoss, level:2, nodes:144, edges:142
+[PressSec.friends]name:VPPressSec, level:2, nodes:145, edges:143
+[PressSec.friends]name:nikkihaley, level:2, nodes:146, edges:144
+[not PressSec.friends]name:{'name': 'Linda McMahon', 'verified': True, 'screen_name': 'Linda_McMahon'}, level:2
+[not PressSec.friends]name:{'name': 'Wilbur Ross', 'verified': True, 'screen_name': 'WilburRoss'}, level:2
+[not PressSec.friends]name:{'name': 'Sec. Elaine L. Chao', 'verified': True, 'screen_name': 'SecElaineChao'}, level:2
+[not PressSec.friends]name:{'name': 'Dr. David J. Shulkin', 'verified': True, 'screen_name': 'SecShulkin'}, level:2
+[PressSec.friends]name:EPAScottPruitt, level:2, nodes:147, edges:145
+[PressSec.friends]name:stevenmnuchin1, level:2, nodes:148, edges:146
+[PressSec.friends]name:SecretaryPerry, level:2, nodes:149, edges:147
+None
+[not PressSec.friends]name:{'name': 'Betsy DeVos', 'verified': True, 'screen_name': 'BetsyDeVos'}, level:2
+[PressSec.friends]name:SecretaryCarson, level:2, nodes:150, edges:148
+[PressSec.friends]name:SecretaryZinke, level:2, nodes:151, edges:149
+[PressSec.friends]name:SecPriceMD, level:2, nodes:152, edges:150
+[PressSec.friends]name:alexahenning45, level:2, nodes:153, edges:151
+[PressSec.friends]name:RajShah45, level:2, nodes:154, edges:152
+[PressSec.friends]name:MCShort45, level:2, nodes:155, edges:153
+[PressSec.friends]name:CSims45, level:2, nodes:156, edges:154
+[PressSec.friends]name:kellyalove45, level:2, nodes:157, edges:155
+[PressSec.friends]name:vanamorrone45, level:2, nodes:158, edges:156
+[PressSec.friends]name:LaraBarger45, level:2, nodes:159, edges:157
+[PressSec.friends]name:katekarnes45, level:2, nodes:160, edges:158
+[PressSec.friends]name:evanwalker45, level:2, nodes:161, edges:159
+[PressSec.friends]name:haferre45, level:2, nodes:162, edges:160
+[PressSec.friends]name:scheung45, level:2, nodes:163, edges:161
+[PressSec.friends]name:BradRateike45, level:2, nodes:164, edges:162
+[PressSec.friends]name:CLH45, level:2, nodes:165, edges:163
+[PressSec.friends]name:KDorr45, level:2, nodes:166, edges:164
+[PressSec.friends]name:NStrom45, level:2, nodes:167, edges:165
+[PressSec.friends]name:Ninio45, level:2, nodes:168, edges:166
+Name: Joy Villa<br>Screen_name: Joy_Villa<br>Medical_Condition:None<br>Country:United States of America<br>Profession:singer, actor, television actor, songwriter<br>Religion:None<br>Marital_Status:Thorsten Overgaard<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Orange<br>Political_Party:None<br>Sex:female
+[PressSec.friends]name:Scavino45, level:2, nodes:169, edges:167
+[realDonaldTrump.mention(exist)]name:{'name': 'Paul Ryan', 'screen_name': 'SpeakerRyan'}
+[PressSec.friends]name:LWalters45, level:2, nodes:170, edges:168
+[realDonaldTrump.mention(exist)]name:{'name': 'Kevin McCarthy', 'screen_name': 'GOPLeader'}
+[PressSec.friends]name:SHSanders45, level:2, nodes:171, edges:169
+[realDonaldTrump.mention]name:SteveScalise, nodes:94, edges:201
+user_screen_name: SteveScalise
+user_name: Rep. Steve Scalise
+[not PressSec.friends]name:{'name': 'Mike Pence', 'verified': True, 'screen_name': 'mike_pence'}, level:2
+[PressSec.friends(exist)]name:realDonaldTrump, level:2
+[PressSec.friends]name:POTUS, level:2, nodes:172, edges:171
+[PressSec.friends]name:WhiteHouse, level:2, nodes:173, edges:172
+[not PressSec.friends]name:{'name': 'Karen Pence', 'verified': True, 'screen_name': 'SecondLady'}, level:2
+[PressSec.friends]name:VP, level:2, nodes:174, edges:173
+[not PressSec.friends]name:{'name': 'Melania Trump', 'verified': True, 'screen_name': 'FLOTUS'}, level:2
+user_name_search: Steve Scalise
+[realDonaldTrump.friends]name:TuckerCarlson, level:1, nodes:175, edges:174
+user_screen_name: TuckerCarlson
+user_name: Tucker Carlson
+user_name_search: Tucker Carlson
+None
+None
+Name: Rep. Steve Scalise<br>Screen_name: SteveScalise<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:New Orleans<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention]name:seanhannity, nodes:95, edges:203
+user_screen_name: seanhannity
+user_name: Sean Hannity
+Name: Tucker Carlson<br>Screen_name: TuckerCarlson<br>Medical_Condition:None<br>Country:United States of America<br>Profession:pundit, columnist, television presenter, journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:San Francisco<br>Political_Party:Republican Party<br>Sex:male
+[friends]name:TuckerCarlson, level:2, nodes:176, edges:174
+user_name_search: Sean Hannity
+[TuckerCarlson.friends]name:KristinFisher, level:2, nodes:176, edges:174
+[TuckerCarlson.friends]name:EricRWeinstein, level:2, nodes:177, edges:175
+[TuckerCarlson.friends]name:RosieGray, level:2, nodes:178, edges:176
+[TuckerCarlson.friends]name:MaxBlumenthal, level:2, nodes:179, edges:177
+[not TuckerCarlson.friends]name:{'name': 'Glenn Greenwald', 'verified': True, 'screen_name': 'ggreenwald'}, level:2
+[TuckerCarlson.friends(exist)]name:realDonaldTrump, level:2
+[TuckerCarlson.friends]name:JoeConchaTV, level:2, nodes:180, edges:179
+[TuckerCarlson.friends]name:ScottAdamsSays, level:2, nodes:181, edges:180
+[TuckerCarlson.friends]name:GillianHTurner, level:2, nodes:182, edges:181
+[TuckerCarlson.friends(exist)]name:seanhannity, level:2
+[TuckerCarlson.friends(exist)]name:FoxNews, level:2
+[TuckerCarlson.friends]name:PfeifferDC, level:2, nodes:183, edges:184
+[TuckerCarlson.friends]name:ScottMGreer, level:2, nodes:184, edges:185
+[TuckerCarlson.friends]name:EddieZipperer, level:2, nodes:185, edges:186
+[TuckerCarlson.friends]name:mtracey, level:2, nodes:186, edges:187
+[TuckerCarlson.friends]name:ByronYork, level:2, nodes:187, edges:188
+[TuckerCarlson.friends]name:davidfrum, level:2, nodes:188, edges:189
+[TuckerCarlson.friends]name:kaitlancollins, level:2, nodes:189, edges:190
+None
+[TuckerCarlson.friends]name:laurenpeikoff, level:2, nodes:190, edges:191
+[TuckerCarlson.friends]name:AnnCoulter, level:2, nodes:191, edges:192
+[TuckerCarlson.friends]name:MariaBartiromo, level:2, nodes:192, edges:193
+[TuckerCarlson.friends(exist)]name:DanaPerino, level:2
+[TuckerCarlson.friends(exist)]name:IngrahamAngle, level:2
+[TuckerCarlson.friends]name:RealAlexJones, level:2, nodes:193, edges:196
+[TuckerCarlson.friends]name:betsyscribeindc, level:2, nodes:194, edges:197
+[TuckerCarlson.friends]name:j_arthur_bloom, level:2, nodes:195, edges:198
+[TuckerCarlson.friends]name:chuckwoolery, level:2, nodes:196, edges:199
+[TuckerCarlson.friends]name:Gavin_McInnes, level:2, nodes:197, edges:200
+[TuckerCarlson.friends]name:ericowensdc, level:2, nodes:198, edges:201
+[TuckerCarlson.friends]name:rickreichmuth, level:2, nodes:199, edges:202
+[TuckerCarlson.friends]name:KirstenPowers, level:2, nodes:200, edges:203
+[TuckerCarlson.friends]name:MikeBastasch, level:2, nodes:201, edges:204
+[TuckerCarlson.friends]name:ainsleyearhardt, level:2, nodes:202, edges:205
+[not TuckerCarlson.friends]name:{'name': 'FOX&friends Weekend', 'verified': True, 'screen_name': 'ffweekend'}, level:2
+[TuckerCarlson.friends]name:ClaytonMorris, level:2, nodes:203, edges:206
+[TuckerCarlson.friends]name:Judgenap, level:2, nodes:204, edges:207
+[TuckerCarlson.friends]name:paconner, level:2, nodes:205, edges:208
+[TuckerCarlson.friends]name:brithume, level:2, nodes:206, edges:209
+[TuckerCarlson.friends]name:tobyharnden, level:2, nodes:207, edges:210
+[TuckerCarlson.friends]name:PaulBegala, level:2, nodes:208, edges:211
+[TuckerCarlson.friends]name:LarryOConnor, level:2, nodes:209, edges:212
+[TuckerCarlson.friends]name:CBedfordDC, level:2, nodes:210, edges:213
+[TuckerCarlson.friends]name:JonahNRO, level:2, nodes:211, edges:214
+[TuckerCarlson.friends(exist)]name:jonkarl, level:2
+[TuckerCarlson.friends]name:danbalz, level:2, nodes:212, edges:216
+[TuckerCarlson.friends]name:TheDCVince, level:2, nodes:213, edges:217
+[TuckerCarlson.friends]name:rachelnoerd, level:2, nodes:214, edges:218
+[TuckerCarlson.friends(exist)]name:marthamaccallum, level:2
+[TuckerCarlson.friends]name:Peggynoonannyc, level:2, nodes:215, edges:220
+[TuckerCarlson.friends]name:Heminator, level:2, nodes:216, edges:221
+[TuckerCarlson.friends]name:SamSifton, level:2, nodes:217, edges:222
+[TuckerCarlson.friends]name:mattklewis, level:2, nodes:218, edges:223
+[TuckerCarlson.friends]name:mkhammer, level:2, nodes:219, edges:224
+[TuckerCarlson.friends]name:WillieGeist, level:2, nodes:220, edges:225
+[TuckerCarlson.friends]name:alexis_levinson, level:2, nodes:221, edges:226
+[TuckerCarlson.friends]name:cjciaramella, level:2, nodes:222, edges:227
+[TuckerCarlson.friends]name:greggutfeld, level:2, nodes:223, edges:228
+[TuckerCarlson.friends]name:DailyCaller, level:2, nodes:224, edges:229
+[TuckerCarlson.friends]name:SteveScully, level:2, nodes:225, edges:230
+Name: Sean Hannity<br>Screen_name: seanhannity<br>Medical_Condition:None<br>Country:United States of America<br>Profession:radio personality, television presenter, journalist, writer<br> &nbsp &nbsp &nbsp &nbsp &nbsp , politician<br>Religion:Catholicism<br>Marital_Status:Jill Rhodes<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:New York City<br>Political_Party:None<br>Sex:male
+[not TuckerCarlson.friends]name:{'name': 'MATT DRUDGE', 'verified': True, 'screen_name': 'DRUDGE'}, level:2
+[realDonaldTrump.mention(exist)]name:{'name': 'Peter Chowka', 'screen_name': 'PChowka'}
+[not TuckerCarlson.friends]name:{'name': 'Neil Cavuto', 'verified': True, 'screen_name': 'TeamCavuto'}, level:2
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[TuckerCarlson.friends]name:PatMcMahonDC, level:2, nodes:226, edges:231
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[TuckerCarlson.friends]name:willrahn, level:2, nodes:227, edges:232
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX Business', 'screen_name': 'FoxBusiness'}
+[TuckerCarlson.friends]name:AlexPappas, level:2, nodes:228, edges:233
+[realDonaldTrump.mention]name:GovAbbott, nodes:96, edges:208
+user_screen_name: GovAbbott
+user_name: Gov. Greg Abbott
+[TuckerCarlson.friends(exist)]name:jaketapper, level:2
+[not TuckerCarlson.friends]name:{'name': 'Joe Scarborough', 'verified': True, 'screen_name': 'JoeNBC'}, level:2
+[TuckerCarlson.friends]name:jmartNYT, level:2, nodes:229, edges:235
+[realDonaldTrump.friends]name:JesseBWatters, level:1, nodes:230, edges:236
+user_screen_name: JesseBWatters
+user_name: Jesse Watters
+user_name_search: Greg Abbott
+user_name_search: Jesse Watters
+None
+None
+Name: Jesse Watters<br>Screen_name: JesseBWatters<br>Medical_Condition:None<br>Country:United States of America<br>Profession:journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Philadelphia<br>Political_Party:None<br>Sex:male
+[friends]name:JesseBWatters, level:2, nodes:231, edges:236
+Name: Gov. Greg Abbott<br>Screen_name: GovAbbott<br>Medical_Condition:paraplegia<br>Country:United States of America<br>Profession:lawyer, politician, judge<br>Religion:Catholic Church<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Wichita Falls<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:DanPatrick, nodes:97, edges:209
+user_screen_name: DanPatrick
+user_name: Dan Patrick
+user_name_search: Dan Patrick
+[JesseBWatters.friends]name:PoliticalShort, level:2, nodes:231, edges:236
+[JesseBWatters.friends]name:RepMattGaetz, level:2, nodes:232, edges:237
+[JesseBWatters.friends]name:RepMarkMeadows, level:2, nodes:233, edges:238
+[not JesseBWatters.friends]name:{'name': 'Sean T at RCP', 'verified': True, 'screen_name': 'SeanTrende'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Dave Wasserman', 'verified': True, 'screen_name': 'Redistrict'}, level:2
+[JesseBWatters.friends]name:thealexvanness, level:2, nodes:234, edges:239
+[not JesseBWatters.friends]name:{'name': 'Stephen Gutowski', 'verified': True, 'screen_name': 'StephenGutowski'}, level:2
+None
+[not JesseBWatters.friends]name:{'name': 'Melania Trump', 'verified': True, 'screen_name': 'FLOTUS'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Tai Lopez', 'verified': True, 'screen_name': 'tailopez'}, level:2
+[JesseBWatters.friends]name:IMAO_, level:2, nodes:235, edges:240
+[not JesseBWatters.friends]name:{'name': 'No Spin News on BillOReilly.com', 'verified': True, 'screen_name': 'NoSpinNews'}, level:2
+[JesseBWatters.friends]name:eScarry, level:2, nodes:236, edges:241
+[JesseBWatters.friends]name:TiffanyATrump, level:2, nodes:237, edges:242
+[JesseBWatters.friends]name:BrittMcHenry, level:2, nodes:238, edges:243
+[not JesseBWatters.friends]name:{'name': 'Seth Mandel', 'verified': True, 'screen_name': 'SethAMandel'}, level:2
+[JesseBWatters.friends]name:jmcardarelli, level:2, nodes:239, edges:244
+[JesseBWatters.friends]name:Timcast, level:2, nodes:240, edges:245
+[JesseBWatters.friends]name:Nigel_Farage, level:2, nodes:241, edges:246
+[JesseBWatters.friends]name:SarahHuckabee, level:2, nodes:242, edges:247
+[not JesseBWatters.friends]name:{'name': 'Jonathan Swan', 'verified': True, 'screen_name': 'jonathanvswan'}, level:2
+[JesseBWatters.friends]name:ScottPresler, level:2, nodes:243, edges:248
+[JesseBWatters.friends]name:AmericaNewsroom, level:2, nodes:244, edges:249
+[JesseBWatters.friends]name:JackPosobiec, level:2, nodes:245, edges:250
+[JesseBWatters.friends]name:jillianmele, level:2, nodes:246, edges:251
+[JesseBWatters.friends]name:THEHermanCain, level:2, nodes:247, edges:252
+[JesseBWatters.friends]name:Dakota_Meyer, level:2, nodes:248, edges:253
+Name: Dan Patrick<br>Screen_name: DanPatrick<br>Medical_Condition:None<br>Country:United States of America<br>Profession:actor, film actor, sports commentator<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Mason<br>Political_Party:None<br>Sex:male
+[not JesseBWatters.friends]name:{'name': 'Chris Ariens', 'verified': True, 'screen_name': 'ChrisAriens'}, level:2
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[JesseBWatters.friends(exist)]name:Scavino45, level:2
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX Business', 'screen_name': 'FoxBusiness'}
+[JesseBWatters.friends]name:oliverdarcy, level:2, nodes:249, edges:255
+[realDonaldTrump.mention]name:Reince, nodes:98, edges:212
+user_screen_name: Reince
+user_name: Reince Priebus
+[JesseBWatters.friends]name:SaraCarterDC, level:2, nodes:250, edges:256
+[JesseBWatters.friends(exist)]name:yashar, level:2
+[JesseBWatters.friends(exist)]name:CLH45, level:2
+[JesseBWatters.friends]name:therealroseanne, level:2, nodes:251, edges:259
+[not JesseBWatters.friends]name:{'name': 'Reince Priebus', 'verified': True, 'screen_name': 'Reince'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Sarah Sanders', 'verified': True, 'screen_name': 'PressSec'}, level:2
+user_name_search: Reince Priebus
+[JesseBWatters.friends]name:realDailyWire, level:2, nodes:252, edges:260
+[JesseBWatters.friends]name:Scaramucci, level:2, nodes:253, edges:261
+[JesseBWatters.friends]name:WattersWorld, level:2, nodes:254, edges:262
+[JesseBWatters.friends]name:TocRadio, level:2, nodes:255, edges:263
+[JesseBWatters.friends]name:JustinMcConney, level:2, nodes:256, edges:264
+[not JesseBWatters.friends]name:{'name': 'Politics Insider', 'verified': True, 'screen_name': 'Politicsinsider'}, level:2
+[JesseBWatters.friends]name:charliekirk11, level:2, nodes:257, edges:265
+[JesseBWatters.friends]name:ChrisRBarron, level:2, nodes:258, edges:266
+[JesseBWatters.friends]name:RubinReport, level:2, nodes:259, edges:267
+[JesseBWatters.friends]name:JamesRosenTV, level:2, nodes:260, edges:268
+[not JesseBWatters.friends]name:{'name': 'Ethan Klapper', 'verified': True, 'screen_name': 'ethanklapper'}, level:2
+[JesseBWatters.friends]name:KristenhCNN, level:2, nodes:261, edges:269
+[JesseBWatters.friends]name:ProfessorF, level:2, nodes:262, edges:270
+[not JesseBWatters.friends]name:{'name': 'Malik Obama', 'verified': True, 'screen_name': 'ObamaMalik'}, level:2
+[JesseBWatters.friends]name:GenFlynn, level:2, nodes:263, edges:271
+[not JesseBWatters.friends]name:{'name': 'Daily Mail Celebrity', 'verified': True, 'screen_name': 'DailyMailCeleb'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Daily Mail US', 'verified': True, 'screen_name': 'DailyMail'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Ken Bone', 'verified': True, 'screen_name': 'kenbone18'}, level:2
+[not JesseBWatters.friends]name:{'name': 'AFP news agency', 'verified': True, 'screen_name': 'AFP'}, level:2
+[JesseBWatters.friends]name:dbongino, level:2, nodes:264, edges:272
+[not JesseBWatters.friends]name:{'name': 'Joshua Green', 'verified': True, 'screen_name': 'JoshuaGreen'}, level:2
+None
+[JesseBWatters.friends]name:CassandraRules, level:2, nodes:265, edges:273
+[not JesseBWatters.friends]name:{'name': 'Michael Tracey', 'verified': True, 'screen_name': 'mtracey'}, level:2
+[JesseBWatters.friends]name:EricGuster, level:2, nodes:266, edges:274
+[not JesseBWatters.friends]name:{'name': 'Vanessa Trump', 'verified': True, 'screen_name': 'MrsVanessaTrump'}, level:2
+[JesseBWatters.friends]name:broussard_troy, level:2, nodes:267, edges:275
+[JesseBWatters.friends]name:Harlan, level:2, nodes:268, edges:276
+[not JesseBWatters.friends]name:{'name': 'Jalen Rose', 'verified': True, 'screen_name': 'JalenRose'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Skip Bayless', 'verified': True, 'screen_name': 'RealSkipBayless'}, level:2
+[not JesseBWatters.friends]name:{'name': 'MELANIA TRUMP', 'verified': True, 'screen_name': 'MELANIATRUMP'}, level:2
+[JesseBWatters.friends]name:RealDrGina, level:2, nodes:269, edges:277
+[JesseBWatters.friends]name:madisongesiotto, level:2, nodes:270, edges:278
+[not JesseBWatters.friends]name:{'name': 'Mike Pence', 'verified': True, 'screen_name': 'mike_pence'}, level:2
+[not JesseBWatters.friends]name:{'name': 'Official Team Trump', 'verified': True, 'screen_name': 'TeamTrump'}, level:2
+[JesseBWatters.friends]name:JasonMillerinDC, level:2, nodes:271, edges:279
+[not JesseBWatters.friends]name:{'name': 'Delta', 'verified': True, 'screen_name': 'Delta'}, level:2
+******get JesseBWatters-Mercedes Schlapp friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=f4FFX9ofI0JD373LcpVMeiXnw&oauth_nonce=12733947937004399221&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517741504&oauth_token=940152525503660032-qRjkZc6OdOws1tgz4eiY5tYzlkgzZ0W&oauth_version=1.0&source_screen_name=JesseBWatters&target_screen_name=mercedesschlapp&oauth_signature=INGtTVTmhYDRrs%2F0MuAakFNY1Hw%3D)
+details: {'errors': [{'message': 'Rate limit exceeded', 'code': 88}]}
+Name: Reince Priebus<br>Screen_name: Reince<br>Medical_Condition:None<br>Country:United States of America<br>Profession:lawyer, chief of staff, politician<br>Religion:Greek Orthodox Church<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:Bachelor of Arts, Doctor of Law<br>Race:None<br>HomeTown:Dover<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:bpolitics, nodes:99, edges:215
+user_screen_name: bpolitics
+user_name: Bloomberg Politics
+user_name_search: Bloomberg News
+Bloomberg Politics 不是人哈哈哈哈
+Bloomberg Politics wikidata is None
+[realDonaldTrump.mention]name:UN, nodes:100, edges:216
+user_screen_name: UN
+user_name: United Nations
+user_name_search: United Nations
+United Nations 不是人哈哈哈哈
+United Nations wikidata is None
+[realDonaldTrump.mention]name:antonioguterres, nodes:101, edges:217
+user_screen_name: antonioguterres
+user_name: António Guterres
+user_name_search: António Guterres
+None
+Name: António Guterres<br>Screen_name: antonioguterres<br>Medical_Condition:None<br>Country:Portugal<br>Profession:politician, engineer, assistant professor<br>Religion:Catholic Church<br>Marital_Status:Luísa Amélia Guimarães e Melo, Catarina Marques de Alme<br> &nbsp &nbsp &nbsp &nbsp &nbsp ida Vaz Pinto<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Lisbon<br>Political_Party:Socialist Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:GeraldoRivera, nodes:102, edges:219
+user_screen_name: GeraldoRivera
+user_name: Geraldo Rivera
+user_name_search: Geraldo Rivera
+None
+Name: Geraldo Rivera<br>Screen_name: GeraldoRivera<br>Medical_Condition:None<br>Country:United States of America<br>Profession:journalist, television presenter, lawyer, writer, radio per<br> &nbsp &nbsp &nbsp &nbsp &nbsp sonality<br>Religion:None<br>Marital_Status:Edith Vonnegut<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Brooklyn<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Leader McConnell', 'screen_name': 'SenateMajLdr'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention]name:ricardorossello, nodes:103, edges:223
+user_screen_name: ricardorossello
+user_name: Ricardo Rossello
+user_name_search: Ricardo Rosselló
+None
+Name: Ricardo Rossello<br>Screen_name: ricardorossello<br>Medical_Condition:None<br>Country:Puerto Rico, United States of America<br>Profession:scientist, politician<br>Religion:None<br>Marital_Status:Beatriz Rosselló<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:San Juan<br>Political_Party:New Progressive Party of Puerto Rico<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:USArmy333, nodes:104, edges:225
+[realDonaldTrump.mention]name:804StreetMedia, nodes:105, edges:226
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:DanaPerino, nodes:106, edges:229
+user_screen_name: DanaPerino
+user_name: Dana Perino
+user_name_search: Dana Perino
+None
+Name: Dana Perino<br>Screen_name: DanaPerino<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Evanston<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention]name:BradThor, nodes:107, edges:230
+user_screen_name: BradThor
+user_name: Brad Thor
+user_name_search: Brad Thor
+None
+Name: Brad Thor<br>Screen_name: BradThor<br>Medical_Condition:None<br>Country:United States of America<br>Profession:novelist, writer<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Chicago<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:NFL, nodes:108, edges:231
+user_screen_name: NFL
+user_name: NFL
+user_name_search: National Football League
+NFL 不是人哈哈哈哈
+NFL wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:fema, nodes:109, edges:233
+user_screen_name: fema
+user_name: FEMA
+user_name_search: Federal Emergency Management Agency
+FEMA 不是人哈哈哈哈
+FEMA wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Heritage Foundation', 'screen_name': 'Heritage'}
+[realDonaldTrump.mention]name:NBCNews, nodes:110, edges:235
+user_screen_name: NBCNews
+user_name: NBC News
+user_name_search: NBC News
+NBC News 不是人哈哈哈哈
+NBC News wikidata is None
+[realDonaldTrump.mention]name:CBSNews, nodes:111, edges:236
+user_screen_name: CBSNews
+user_name: CBS News
+user_name_search: CBS News
+CBS News 不是人哈哈哈哈
+CBS News wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'ABC News', 'screen_name': 'ABC'}
+[realDonaldTrump.mention(exist)]name:{'name': 'CNN', 'screen_name': 'CNN'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention]name:ABCNewsRadio, nodes:112, edges:241
+user_screen_name: ABCNewsRadio
+user_name: ABC News Radio
+user_name_search: ABC News Radio
+ABC News Radio 不是人哈哈哈哈
+ABC News Radio wikidata is None
+[realDonaldTrump.mention]name:mike_pence, nodes:113, edges:242
+user_screen_name: mike_pence
+user_name: Mike Pence
+user_name_search: Mike Pence
+None
+Name: Mike Pence<br>Screen_name: mike_pence<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, lawyer, radio personality<br>Religion:Evangelical Christianity, Protestantism, Catholicism<br>Marital_Status:Karen Pence<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Columbus, Indiana<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Ed Gillespie', 'screen_name': 'EdWGillespie'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Jeanine Pirro', 'screen_name': 'JudgeJeanine'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention]name:LaraLeaTrump, nodes:114, edges:248
+user_screen_name: LaraLeaTrump
+user_name: Lara Trump
+user_name_search: Lara Trump
+None
+Name: Lara Trump<br>Screen_name: LaraLeaTrump<br>Medical_Condition:None<br>Country:United States of America<br>Profession:None<br>Religion:None<br>Marital_Status:Eric Trump<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Wilmington<br>Political_Party:None<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Lara Trump', 'screen_name': 'LaraLeaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Jeanine Pirro', 'screen_name': 'JudgeJeanine'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Mike Pence', 'screen_name': 'mike_pence'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ed Gillespie', 'screen_name': 'EdWGillespie'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:RightlyNews, nodes:115, edges:255
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Rightly News', 'screen_name': 'RightlyNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[realDonaldTrump.mention]name:BillOReilly, nodes:116, edges:260
+user_screen_name: BillOReilly
+user_name: Bill O'Reilly
+user_name_search: Bill O'Reilly (political commentator)
+None
+Name: Bill O'Reilly<br>Screen_name: BillOReilly<br>Medical_Condition:None<br>Country:United States of America<br>Profession:journalist, radio personality, television presenter, baseba<br> &nbsp &nbsp &nbsp &nbsp &nbsp ll player, teacher, writer<br>Religion:Catholicism<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Manhattan<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'NBC News', 'screen_name': 'NBCNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'CNN', 'screen_name': 'CNN'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'NBC News', 'screen_name': 'NBCNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention]name:IsraelUSAforevr, nodes:117, edges:273
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:VP, nodes:118, edges:276
+user_screen_name: VP
+user_name: Vice President Mike Pence
+user_name_search: Mike Pence
+None
+Name: Vice President Mike Pence<br>Screen_name: VP<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, lawyer, radio personality<br>Religion:Evangelical Christianity, Protestantism, Catholicism<br>Marital_Status:Karen Pence<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Columbus, Indiana<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:nypost, nodes:119, edges:277
+user_screen_name: nypost
+user_name: New York Post
+user_name_search: New York Post
+New York Post 不是人哈哈哈哈
+New York Post wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Vice President Mike Pence', 'screen_name': 'VP'}
+[realDonaldTrump.mention]name:SecondLady, nodes:120, edges:279
+user_screen_name: SecondLady
+user_name: Karen Pence
+user_name_search: Karen Pence
+None
+Name: Karen Pence<br>Screen_name: SecondLady<br>Medical_Condition:None<br>Country:United States of America<br>Profession:elementary school teacher, watercolourist, politician<br>Religion:Evangelical Christianity<br>Marital_Status:Mike Pence<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Broad Ripple Village<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:GovMikeHuckabee, nodes:121, edges:280
+user_screen_name: GovMikeHuckabee
+user_name: Gov. Mike Huckabee
+user_name_search: Mike Huckabee
+None
+Name: Gov. Mike Huckabee<br>Screen_name: GovMikeHuckabee<br>Medical_Condition:None<br>Country:United States of America<br>Profession:radio personality, politician, musician, writer<br>Religion:None<br>Marital_Status:Janet Huckabee<br>Economical_Condition:None<br>Academic_Degree:bachelors degree<br>Race:None<br>HomeTown:Hope<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:TBN, nodes:122, edges:281
+user_screen_name: TBN
+user_name: TBN
+user_name_search: TBN
+TBN 不是人哈哈哈哈
+TBN wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'FEMA', 'screen_name': 'fema'}
+[realDonaldTrump.mention(exist)]name:{'name': 'NBC News', 'screen_name': 'NBCNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Washington Post', 'screen_name': 'washingtonpost'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX Business', 'screen_name': 'FoxBusiness'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'NBC News', 'screen_name': 'NBCNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'ABC News', 'screen_name': 'ABC'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention]name:LVMPD, nodes:123, edges:293
+user_screen_name: LVMPD
+user_name: LVMPD
+user_name_search: Las Vegas Metropolitan Police Department
+LVMPD 不是人哈哈哈哈
+LVMPD wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention]name:UMCSN, nodes:124, edges:297
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'NBC News', 'screen_name': 'NBCNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Vice President Mike Pence', 'screen_name': 'VP'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ricardo Rossello', 'screen_name': 'ricardorossello'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sarah Sanders', 'screen_name': 'PressSec'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': "Bill O'Reilly", 'screen_name': 'BillOReilly'}
+[realDonaldTrump.mention]name:Jenniffer2012, nodes:125, edges:309
+user_screen_name: Jenniffer2012
+user_name: Jenniffer González
+user_name_search: Jenniffer González
+None
+Name: Jenniffer González<br>Screen_name: Jenniffer2012<br>Medical_Condition:None<br>Country:Puerto Rico<br>Profession:politician<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:San Juan<br>Political_Party:None<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FEMA', 'screen_name': 'fema'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FEMA', 'screen_name': 'fema'}
+[realDonaldTrump.mention]name:PresidentsCup, nodes:126, edges:312
+user_screen_name: PresidentsCup
+user_name: Presidents Cup
+user_name_search: Presidents Cup
+Presidents Cup 不是人哈哈哈哈
+Presidents Cup wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Ricardo Rossello', 'screen_name': 'ricardorossello'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ricardo Rossello', 'screen_name': 'ricardorossello'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Dept of Defense', 'screen_name': 'DeptofDefense'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FEMA', 'screen_name': 'fema'}
+[realDonaldTrump.mention]name:usairforce, nodes:127, edges:318
+user_screen_name: usairforce
+user_name: U.S. Air Force
+user_name_search: United States Air Force
+U.S. Air Force 不是人哈哈哈哈
+U.S. Air Force wikidata is None
+[realDonaldTrump.mention]name:USCGSoutheast, nodes:128, edges:319
+user_screen_name: USCGSoutheast
+user_name: USCGSoutheast
+user_name_search: Hurricane Joaquin
+USCGSoutheast 不是人哈哈哈哈
+USCGSoutheast wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Coast Guard', 'screen_name': 'USCG'}
+[realDonaldTrump.mention]name:RedCross, nodes:129, edges:321
+user_screen_name: RedCross
+user_name: American Red Cross
+user_name_search: American Red Cross
+American Red Cross 不是人哈哈哈哈
+American Red Cross wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'FEMA', 'screen_name': 'fema'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Kellyanne Conway', 'screen_name': 'KellyannePolls'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:IMPDnews, nodes:130, edges:336
+user_screen_name: IMPDnews
+user_name: IMPD
+user_name_search: Indianapolis Metropolitan Police Department
+IMPD 不是人哈哈哈哈
+IMPD wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The NAM', 'screen_name': 'ShopFloorNAM'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ronna McDaniel', 'screen_name': 'GOPChairwoman'}
+[realDonaldTrump.mention(exist)]name:{'name': "Bill O'Reilly", 'screen_name': 'BillOReilly'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Rep. Steve Scalise', 'screen_name': 'SteveScalise'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The New York Times', 'screen_name': 'nytimes'}
+[realDonaldTrump.mention]name:wapo, nodes:131, edges:344
+[realDonaldTrump.mention]name:USUN, nodes:132, edges:345
+user_screen_name: USUN
+user_name: US Mission to the UN
+user_name_search: United States Mission to the United Nations
+US Mission to the UN 不是人哈哈哈哈
+US Mission to the UN wikidata is None
+[realDonaldTrump.mention]name:marianorajoy, nodes:133, edges:346
+user_screen_name: marianorajoy
+user_name: Mariano Rajoy Brey
+user_name_search: Mariano Rajoy
+None
+Name: Mariano Rajoy Brey<br>Screen_name: marianorajoy<br>Medical_Condition:None<br>Country:Spain<br>Profession:politician, lawyer, Land Registrar, statesman<br>Religion:Catholic Church<br>Marital_Status:Elvira Fernández Balboa<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Santiago de Compostela<br>Political_Party:Peoples Party, Peoples Alliance, Spanish National Unio<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'United Nations', 'screen_name': 'UN'}
+[realDonaldTrump.mention]name:nikkihaley, nodes:134, edges:348
+user_screen_name: nikkihaley
+user_name: Nikki Haley
+user_name_search: Nikki Haley
+None
+Name: Nikki Haley<br>Screen_name: nikkihaley<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:Methodism<br>Marital_Status:Michael Haley<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:Indian American<br>HomeTown:Bamberg<br>Political_Party:Republican Party<br>Sex:female
+[realDonaldTrump.mention(exist)]name:{'name': 'Ricardo Rossello', 'screen_name': 'ricardorossello'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'CNN', 'screen_name': 'CNN'}
+[realDonaldTrump.mention]name:jayMAGA45, nodes:135, edges:353
+[realDonaldTrump.mention]name:DonnaWR8, nodes:136, edges:354
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'DONNA WARREN 🇺🇸', 'screen_name': 'DonnaWR8'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'DONNA WARREN 🇺🇸', 'screen_name': 'DonnaWR8'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention]name:TwitterData, nodes:137, edges:361
+user_screen_name: TwitterData
+user_name: Twitter Data
+user_name_search: Twitter
+Twitter Data 不是人哈哈哈哈
+Twitter Data wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Ricardo Rossello', 'screen_name': 'ricardorossello'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Vice President Mike Pence', 'screen_name': 'VP'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:Franklin_Graham, nodes:138, edges:365
+user_screen_name: Franklin_Graham
+user_name: Franklin Graham
+user_name_search: Franklin Graham
+None
+Name: Franklin Graham<br>Screen_name: Franklin_Graham<br>Medical_Condition:None<br>Country:United States of America<br>Profession:pastor, missionary<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Asheville<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention]name:RealEagleBites, nodes:139, edges:368
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'DONNA WARREN 🇺🇸', 'screen_name': 'DonnaWR8'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'United Nations', 'screen_name': 'UN'}
+[realDonaldTrump.mention(exist)]name:{'name': 'António Guterres', 'screen_name': 'antonioguterres'}
+[realDonaldTrump.mention(exist)]name:{'name': 'United Nations', 'screen_name': 'UN'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention]name:SushmaSwaraj, nodes:140, edges:380
+user_screen_name: SushmaSwaraj
+user_name: Sushma Swaraj
+user_name_search: Sushma Swaraj
+None
+Name: Sushma Swaraj<br>Screen_name: SushmaSwaraj<br>Medical_Condition:None<br>Country:India<br>Profession:politician, lawyer<br>Religion:Hinduism<br>Marital_Status:Swaraj Kaushal<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Ambala Cantonment<br>Political_Party:Bharatiya Janata Party<br>Sex:female
+[realDonaldTrump.mention]name:EmmanuelMacron, nodes:141, edges:381
+user_screen_name: EmmanuelMacron
+user_name: Emmanuel Macron
+user_name_search: Emmanuel Macron
+None
+Name: Emmanuel Macron<br>Screen_name: EmmanuelMacron<br>Medical_Condition:None<br>Country:France<br>Profession:banker, politician, statesman<br>Religion:Catholicism<br>Marital_Status:Brigitte Macron<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Amiens<br>Political_Party:La République En Marche!, Socialist Party, independent<br> &nbsp &nbsp &nbsp &nbsp &nbsp  politician<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Benjamin Netanyahu', 'screen_name': 'netanyahu'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Benjamin Netanyahu', 'screen_name': 'netanyahu'}
+[realDonaldTrump.mention(exist)]name:{'name': 'António Guterres', 'screen_name': 'antonioguterres'}
+[realDonaldTrump.mention]name:CIA, nodes:142, edges:385
+user_screen_name: CIA
+user_name: CIA
+user_name_search: Central Intelligence Agency
+CIA 不是人哈哈哈哈
+CIA wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Air Force', 'screen_name': 'usairforce'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:markets, nodes:143, edges:387
+user_screen_name: markets
+user_name: Bloomberg Markets
+user_name_search: Bloomberg Markets
+Bloomberg Markets 不是人哈哈哈哈
+Bloomberg Markets wikidata is None
+[realDonaldTrump.mention]name:Fuctupmind, nodes:144, edges:388
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:Team_Trump45, nodes:145, edges:389
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Democrat Ban', 'screen_name': 'Team_Trump45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Democrat Ban', 'screen_name': 'Team_Trump45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:glamourizes, nodes:146, edges:392
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Democrat Ban', 'screen_name': 'Team_Trump45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:dmartosko, nodes:147, edges:394
+user_screen_name: dmartosko
+user_name: David Martosko
+user_name_search: David Martosko
+None
+Name: David Martosko<br>Screen_name: dmartosko<br>Medical_Condition:None<br>Country:None<br>Profession:None<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:None<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'U.S. Air Force', 'screen_name': 'usairforce'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Lou Dobbs', 'screen_name': 'LouDobbs'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Kellyanne Conway', 'screen_name': 'KellyannePolls'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention]name:SecretarySonny, nodes:148, edges:401
+user_screen_name: SecretarySonny
+user_name: Sec. Sonny Perdue
+user_name_search: Wilbur Ross
+{'unit': 'http://www.wikidata.org/entity/Q4917', 'amount': '+2500000000'}
+Name: Sec. Sonny Perdue<br>Screen_name: SecretarySonny<br>Medical_Condition:None<br>Country:United States of America<br>Profession:financier, investor<br>Religion:Catholicism<br>Marital_Status:Betsy McCaughey<br>Economical_Condition:$2500000000<br>Academic_Degree:Bachelor of Arts, Master of Business Administration<br>Race:None<br>HomeTown:Weehawken<br>Political_Party:Republican Party, Democratic Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'The Cabinet', 'screen_name': 'Cabinet'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:TravelGov, nodes:149, edges:404
+user_screen_name: TravelGov
+user_name: Travel - State Dept
+user_name_search: United States Department of State
+Travel - State Dept 不是人哈哈哈哈
+Travel - State Dept wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Kellyanne Conway', 'screen_name': 'KellyannePolls'}
+[realDonaldTrump.mention]name:NYPDnews, nodes:150, edges:406
+user_screen_name: NYPDnews
+user_name: NYPD NEWS
+user_name_search: NYPD Blue
+NYPD NEWS 不是人哈哈哈哈
+NYPD NEWS wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Sean Hannity', 'screen_name': 'seanhannity'}
+[realDonaldTrump.mention]name:ericbolling, nodes:151, edges:408
+user_screen_name: ericbolling
+user_name: Eric Bolling
+user_name_search: Eric Bolling
+None
+Name: Eric Bolling<br>Screen_name: ericbolling<br>Medical_Condition:None<br>Country:United States of America<br>Profession:presenter, television presenter, baseball player, journalis<br> &nbsp &nbsp &nbsp &nbsp &nbsp t<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Chicago<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:DonaldJTrumpJr, nodes:152, edges:409
+user_screen_name: DonaldJTrumpJr
+user_name: Donald Trump Jr.
+user_name_search: Donald Trump Jr.
+None
+Name: Donald Trump Jr.<br>Screen_name: DonaldJTrumpJr<br>Medical_Condition:None<br>Country:United States of America<br>Profession:entrepreneur, businessperson, television presenter<br>Religion:None<br>Marital_Status:Vanessa Trump<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:New York City<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:CBPFlorida, nodes:153, edges:410
+user_screen_name: CBPFlorida
+user_name: CBP Florida
+user_name_search: U.S. Customs and Border Protection
+CBP Florida 不是人哈哈哈哈
+CBP Florida wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'CBP', 'screen_name': 'CustomsBorder'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.🇺🇸', 'screen_name': 'Scavino45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Rick Scott', 'screen_name': 'FLGovScott'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Eric Trump', 'screen_name': 'EricTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Rick Scott', 'screen_name': 'FLGovScott'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention]name:GOP, nodes:154, edges:417
+user_screen_name: GOP
+user_name: GOP
+user_name_search: Republican Party (United States)
+GOP 不是人哈哈哈哈
+GOP wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The White House', 'screen_name': 'WhiteHouse'}
+[realDonaldTrump.mention(exist)]name:{'name': 'GOP', 'screen_name': 'GOP'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:DougBurgum, nodes:155, edges:422
+user_screen_name: DougBurgum
+user_name: Doug Burgum
+user_name_search: Doug Burgum
+None
+Name: Doug Burgum<br>Screen_name: DougBurgum<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Arthur<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:BrentSanfordND, nodes:156, edges:423
+[realDonaldTrump.mention]name:SenJohnHoeven, nodes:157, edges:424
+user_screen_name: SenJohnHoeven
+user_name: Senator John Hoeven
+user_name_search: John Hoeven
+None
+Name: Senator John Hoeven<br>Screen_name: SenJohnHoeven<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician, banker<br>Religion:Catholicism<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Bismarck<br>Political_Party:novalue, Republican Party, Democratic Party<br>Sex:male
+[realDonaldTrump.mention]name:RepKevinCramer, nodes:158, edges:425
+user_screen_name: RepKevinCramer
+user_name: Rep. Kevin Cramer
+user_name_search: Kevin Cramer
+None
+Name: Rep. Kevin Cramer<br>Screen_name: RepKevinCramer<br>Medical_Condition:None<br>Country:United States of America<br>Profession:politician<br>Religion:Pentecostalism<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Rolette<br>Political_Party:North Dakota Republican Party, Republican Party<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Vice President Mike Pence', 'screen_name': 'VP'}
+[realDonaldTrump.mention(exist)]name:{'name': 'President Trump', 'screen_name': 'POTUS'}
+[realDonaldTrump.mention]name:The_Trump_Train, nodes:159, edges:428
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Dan Scavino Jr.', 'screen_name': 'DanScavino'}
+[realDonaldTrump.mention]name:NationalGuard, nodes:160, edges:430
+user_screen_name: NationalGuard
+user_name: National Guard
+user_name_search: National Guard
+National Guard 不是人哈哈哈哈
+National Guard wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'Democrat Ban', 'screen_name': 'Team_Trump45'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention]name:ColumbiaBugle, nodes:161, edges:432
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'The Columbia Bugle 🇺🇸', 'screen_name': 'ColumbiaBugle'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Donald J. Trump', 'screen_name': 'realDonaldTrump'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Joint Base Andrews', 'screen_name': 'JBA_NAFW'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Melania Trump', 'screen_name': 'FLOTUS'}
+[realDonaldTrump.mention]name:sendrelief, nodes:162, edges:439
+[realDonaldTrump.mention(exist)]name:{'name': 'Fox News', 'screen_name': 'FoxNews'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Kellyanne Conway', 'screen_name': 'KellyannePolls'}
+[realDonaldTrump.mention]name:SecShulkin, nodes:163, edges:442
+user_screen_name: SecShulkin
+user_name: Dr. David J. Shulkin
+user_name_search: David Shulkin
+None
+Name: Dr. David J. Shulkin<br>Screen_name: SecShulkin<br>Medical_Condition:None<br>Country:United States of America<br>Profession:physician<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Chicago<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention(exist)]name:{'name': 'Ivanka Trump', 'screen_name': 'IvankaTrump'}
+[realDonaldTrump.mention]name:BrazoriaCounty, nodes:164, edges:444
+[realDonaldTrump.mention(exist)]name:{'name': 'FOX & friends', 'screen_name': 'foxandfriends'}
+[realDonaldTrump.mention(exist)]name:{'name': 'Laura Ingraham', 'screen_name': 'IngrahamAngle'}
+[realDonaldTrump.mention]name:TheFive, nodes:165, edges:447
+user_screen_name: TheFive
+user_name: The Five
+user_name_search: The Five
+The Five 不是人哈哈哈哈
+The Five wikidata is None
+[realDonaldTrump.mention]name:JesseBWatters, nodes:166, edges:448
+user_screen_name: JesseBWatters
+user_name: Jesse Watters
+user_name_search: Jesse Watters
+None
+Name: Jesse Watters<br>Screen_name: JesseBWatters<br>Medical_Condition:None<br>Country:United States of America<br>Profession:journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Philadelphia<br>Political_Party:None<br>Sex:male
+[realDonaldTrump.mention]name:TXMilitary, nodes:167, edges:449
+user_screen_name: TXMilitary
+user_name: Texas Military Dept
+user_name_search: Department of Public Safety
+Texas Military Dept 不是人哈哈哈哈
+Texas Military Dept wikidata is None
+[realDonaldTrump.mention(exist)]name:{'name': 'National Guard', 'screen_name': 'USNationalGuard'}
+[realDonaldTrump.mention]name:NWSHouston, nodes:168, edges:451
+user_screen_name: NWSHouston
+user_name: NWS Houston
+user_name_search: National Weather Service
+NWS Houston 不是人哈哈哈哈
+NWS Houston wikidata is None
+[realDonaldTrump.mention]name:GregAbbott_TX, nodes:169, edges:452
+user_screen_name: GregAbbott_TX
+user_name: Greg Abbott
+user_name_search: Greg Abbott
+None
+Name: Greg Abbott<br>Screen_name: GregAbbott_TX<br>Medical_Condition:paraplegia<br>Country:United States of America<br>Profession:lawyer, politician, judge<br>Religion:Catholic Church<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:Wichita Falls<br>Political_Party:Republican Party<br>Sex:male
+[realDonaldTrump.mention]name:Inspire_Us, nodes:170, edges:453
+[realDonaldTrump.mention]name:KatiePavlich, nodes:171, edges:454
+user_screen_name: KatiePavlich
+user_name: Katie Pavlich
+user_name_search: Katie Pavlich
+None
+Name: Katie Pavlich<br>Screen_name: KatiePavlich<br>Medical_Condition:None<br>Country:United States of America<br>Profession:journalist<br>Religion:None<br>Marital_Status:None<br>Economical_Condition:None<br>Academic_Degree:None<br>Race:None<br>HomeTown:United States of America<br>Political_Party:Republican Party<br>Sex:female

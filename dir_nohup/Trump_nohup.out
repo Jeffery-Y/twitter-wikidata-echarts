@@ -1,0 +1,1539 @@
+nohup: ignoring input
+
+***********************************************************************
+getTwitterData.py-Trump:START TIME:2018-02-02 12:24:24
+the dataPath:./static/Trump-complex.json is not exist!
+user_screen_name: Trump
+user_name: The Trump Organization
+user_name_search: The Trump Organization
+The Trump Organization 不是人哈哈哈哈
+The Trump Organization wikidata is None
+[friends]name:Trump, level:1, nodes:1, edges:0
+[mention_users]name:Trump
+[not Trump.friends]name:{'screen_name': 'MichaelBreed', 'name': 'Michael Breed', 'verified': True}, level:1
+[Trump.friends]name:TrumpStore, level:1, nodes:1, edges:0
+user_screen_name: TrumpStore
+user_name: Trump Store
+user_name_search: Trump Tower
+[Trump.mention]name:TrumpVancouver, nodes:1, edges:0
+user_screen_name: TrumpVancouver
+user_name: Trump Vancouver
+user_name_search: Trump International Hotel and Tower (Vancouver)
+Trump Store 不是人哈哈哈哈
+Trump Store wikidata is None
+[friends]name:TrumpStore, level:2, nodes:2, edges:0
+[TrumpStore.friends(exist)]name:Trump, level:2
+[not TrumpStore.friends]name:{'screen_name': 'MichaelBreed', 'name': 'Michael Breed', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'DAMACOfficial', 'name': 'DAMAC Properties', 'verified': True}, level:2
+Trump Vancouver 不是人哈哈哈哈
+Trump Vancouver wikidata is None
+[Trump.mention]name:TrumpRealty, nodes:2, edges:1
+[not TrumpStore.friends]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump', 'verified': True}, level:2
+user_screen_name: TrumpRealty
+user_name: Trump Realty
+[not TrumpStore.friends]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpFerryPoint, level:2, nodes:2, edges:1
+[TrumpStore.friends]name:EricTrump, level:2, nodes:3, edges:2
+[not TrumpStore.friends]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpDoral, level:2, nodes:4, edges:3
+user_name_search: Trump family
+[not TrumpStore.friends]name:{'screen_name': 'TrumpGolfLA', 'name': 'Trump Los Angeles', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpCharlotte, level:2, nodes:5, edges:4
+[not TrumpStore.friends]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpDC, level:2, nodes:6, edges:5
+[TrumpStore.friends]name:TrumpGolfPhilly, level:2, nodes:7, edges:6
+[not TrumpStore.friends]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpGolfHV', 'name': 'Trump Hudson Valley', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpColtsNeck', 'name': 'Trump Colts Neck', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpHotels, level:2, nodes:8, edges:7
+Trump Realty 不是人哈哈哈哈
+Trump Realty wikidata is None
+[Trump.mention]name:TrumpStore, nodes:3, edges:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpAberdeen', 'name': 'Trump Aberdeen', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpNationalNY', 'name': 'Trump Westchester', 'verified': True}, level:2
+user_screen_name: TrumpStore
+user_name: Trump Store
+user_name_search: Trump Tower
+[not TrumpStore.friends]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpGolf, level:2, nodes:9, edges:8
+[not TrumpStore.friends]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpJupiter', 'name': 'Trump Jupiter', 'verified': True}, level:2
+[TrumpStore.friends]name:TrumpGolfDubai, level:2, nodes:10, edges:9
+[not TrumpStore.friends]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'IvankaTrumpHQ', 'name': 'Ivanka Trump HQ', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'MrsVanessaTrump', 'name': 'Vanessa Trump', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TiffanyATrump', 'name': 'Tiffany Ariana Trump', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'LGlick1', 'name': 'Larry Glick', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'LaraLeaTrump', 'name': 'Lara Trump', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'WollmanRink', 'name': 'Wollman Rink ⛸', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'AlbemarleEstate', 'name': 'TrumpAlbemarleEstate', 'verified': True}, level:2
+[not TrumpStore.friends]name:{'screen_name': 'MELANIATRUMP', 'name': 'MELANIA TRUMP', 'verified': True}, level:2
+Trump Store 不是人哈哈哈哈
+Trump Store wikidata is None
+[Trump.mention]name:TrumpTower, nodes:4, edges:3
+[not Trump.friends]name:{'screen_name': 'MELANIATRUMP', 'name': 'MELANIA TRUMP', 'verified': True}, level:1
+user_screen_name: TrumpTower
+user_name: Trump Tower New York
+[not Trump.friends]name:{'screen_name': 'AlbemarleEstate', 'name': 'TrumpAlbemarleEstate', 'verified': True}, level:1
+[not Trump.friends]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama', 'verified': True}, level:1
+[Trump.friends]name:WollmanRink, level:1, nodes:11, edges:10
+user_screen_name: WollmanRink
+user_name: Wollman Rink ⛸
+user_name_search: Trump Tower
+user_name_search: Wollman Rink
+Wollman Rink ⛸ 不是人哈哈哈哈
+Wollman Rink ⛸ wikidata is None
+[friends]name:WollmanRink, level:2, nodes:12, edges:10
+[not WollmanRink.friends]name:{'screen_name': 'MuseumofCityNY', 'name': 'MuseumoftheCityofNY', 'verified': True}, level:2
+Trump Tower New York 不是人哈哈哈哈
+Trump Tower New York wikidata is None
+[Trump.mention]name:TrumpHotels, nodes:5, edges:4
+[not WollmanRink.friends]name:{'screen_name': '1067Litefm', 'name': '106.7 Lite fm', 'verified': True}, level:2
+user_screen_name: TrumpHotels
+user_name: Trump Hotels
+[not WollmanRink.friends]name:{'screen_name': 'Macys', 'name': "Macy's", 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'nathanwchen', 'name': 'Nathan Chen', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'Karebearsk8', 'name': 'Karen Chen', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'ISU_Speed', 'name': 'ISU Speed Skating', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'USSpeedskating', 'name': 'US Speedskating', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NYCulture', 'name': 'NYC Cultural Affairs', 'verified': True}, level:2
+user_name_search: Trump Entertainment Resorts
+[not WollmanRink.friends]name:{'screen_name': 'NYTArchives', 'name': 'NYT Archives', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'nyrr', 'name': 'New York Road Runners', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'nycmarathon', 'name': 'TCS New York City Marathon', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NYCMayorsOffice', 'name': "NYC Mayor's Office", 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TimeOutNewYork', 'name': 'Time Out New York', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NYCParks', 'name': 'NYC Parks', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'bryantparknyc', 'name': 'Bryant Park', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'nycgov', 'name': 'City of New York', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'Olympics', 'name': 'Olympics', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TeamUSA', 'name': 'U.S. Olympic Team', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'IIHFHockey', 'name': 'IIHF', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NCAAIceHockey', 'name': 'NCAA Ice Hockey', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NHL', 'name': 'NHL', 'verified': True}, level:2
+Trump Hotels 不是人哈哈哈哈
+Trump Hotels wikidata is None
+[Trump.mention]name:TrumpGolfDubai, nodes:6, edges:5
+[not WollmanRink.friends]name:{'screen_name': 'pyeongchang2018', 'name': 'PyeongChang 2018', 'verified': True}, level:2
+user_screen_name: TrumpGolfDubai
+user_name: Trump Dubai
+[not WollmanRink.friends]name:{'screen_name': 'EmHughes26', 'name': 'Emily Hughes', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'kristiyamaguchi', 'name': 'Kristi Yamaguchi', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NYDailyNews', 'name': 'New York Daily News', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NY1', 'name': 'Spectrum News NY1', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'jasonbskates', 'name': 'Jason Brown', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'Rockettes', 'name': 'Rockettes', 'verified': True}, level:2
+user_name_search: Trump International Hotel and Tower (Dubai)
+[not WollmanRink.friends]name:{'screen_name': 'NBCOlympics', 'name': 'NBC Olympics', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'Adaripp', 'name': 'Adam Rippon', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'CentralParkNYC', 'name': 'Central Park', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'nycgo', 'name': 'NYCgo', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'rodgilbert7', 'name': 'Rod Gilbert', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'ScottHamilton84', 'name': 'Scott Hamilton', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'EvanLysacek', 'name': 'Evan Lysacek', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'MaiaShibutani', 'name': 'Maia Shibutani', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'AlexShibutani', 'name': 'Alex Shibutani', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'mirai_nagasu', 'name': 'Mirai Nagasu', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'ISU_Figure', 'name': 'ISU Figure Skating', 'verified': True}, level:2
+[WollmanRink.friends(exist)]name:TrumpFerryPoint, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral', 'verified': True}, level:2
+[WollmanRink.friends]name:TrumpGolfLA, level:2, nodes:12, edges:11
+[WollmanRink.friends]name:TrumpRealty, level:2, nodes:13, edges:12
+[WollmanRink.friends(exist)]name:TrumpCharlotte, level:2
+[WollmanRink.friends]name:TrumpGolfDC, level:2, nodes:14, edges:14
+Trump Dubai 不是人哈哈哈哈
+Trump Dubai wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention]name:trumpwinery, nodes:7, edges:7
+[not WollmanRink.friends]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC', 'verified': True}, level:2
+user_screen_name: trumpwinery
+user_name: Trump Winery
+[WollmanRink.friends]name:TrumpGolfHV, level:2, nodes:15, edges:15
+[WollmanRink.friends]name:TrumpColtsNeck, level:2, nodes:16, edges:16
+[WollmanRink.friends]name:TrumpChicago, level:2, nodes:17, edges:17
+[not WollmanRink.friends]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TrumpGolfPhilly', 'name': 'Trump Philadelphia', 'verified': True}, level:2
+[WollmanRink.friends(exist)]name:TrumpHotels, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama', 'verified': True}, level:2
+user_name_search: Trump Winery
+[not WollmanRink.friends]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg', 'verified': True}, level:2
+[WollmanRink.friends(exist)]name:Trump, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki', 'verified': True}, level:2
+[WollmanRink.friends]name:TrumpAberdeen, level:2, nodes:18, edges:20
+[WollmanRink.friends]name:TrumpNationalNY, level:2, nodes:19, edges:21
+[WollmanRink.friends]name:TrumpBedminster, level:2, nodes:20, edges:22
+[not WollmanRink.friends]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry', 'verified': True}, level:2
+[WollmanRink.friends(exist)]name:TrumpGolf, level:2
+[WollmanRink.friends]name:TrumpTower, level:2, nodes:21, edges:24
+[not WollmanRink.friends]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TrumpJupiter', 'name': 'Trump Jupiter', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'CharlieaWhite', 'name': 'Charlie White', 'verified': True}, level:2
+Trump Winery 不是人哈哈哈哈
+Trump Winery wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention]name:HolbornGrp, nodes:8, edges:9
+[not WollmanRink.friends]name:{'screen_name': 'Meryl_Davis', 'name': 'Meryl Davis', 'verified': True}, level:2
+[Trump.mention]name:EricTrump, nodes:9, edges:10
+[WollmanRink.friends]name:DonaldJTrumpJr, level:2, nodes:22, edges:25
+user_screen_name: EricTrump
+user_name: Eric Trump
+[not WollmanRink.friends]name:{'screen_name': 'GraceEGold', 'name': 'Gracie Gold', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'jeremyabbottpcf', 'name': 'Jeremy Abbott', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'AshWagner2010', 'name': 'Ashley Wagner', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'icenetwork', 'name': 'icenetwork', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'USFigureSkating', 'name': 'U.S. Figure Skating', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'NYRangers', 'name': 'New York Rangers', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump', 'verified': True}, level:2
+user_name_search: Eric Trump
+[WollmanRink.friends]name:IvankaTrump, level:2, nodes:23, edges:26
+[WollmanRink.friends(exist)]name:EricTrump, level:2
+[not WollmanRink.friends]name:{'screen_name': 'SarahHughesNY', 'name': 'Sarah Hughes', 'verified': True}, level:2
+[not WollmanRink.friends]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery', 'verified': True}, level:2
+[not Trump.friends]name:{'screen_name': 'LaraLeaTrump', 'name': 'Lara Trump', 'verified': True}, level:1
+[Trump.friends]name:LGlick1, level:1, nodes:24, edges:28
+user_screen_name: LGlick1
+user_name: Larry Glick
+user_name_search: Larry Glick
+Name: Larry Glick<br>Screen_name: LGlick1<br>Country:None<br>HomeTown:None<br>Medical_Condition:None<br>Race:None<br>Profession:radio personality<br>Religion:None<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[friends]name:LGlick1, level:2, nodes:25, edges:28
+[LGlick1.friends(exist)]name:TrumpCharlotte, level:2
+[not LGlick1.friends]name:{'screen_name': 'TrumpAberdeen', 'name': 'Trump Aberdeen', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'stevenmnuchin1', 'name': 'Steven Mnuchin', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'FLOTUS', 'name': 'Melania Trump', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'Scavino45', 'name': 'Dan Scavino Jr.🇺🇸', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'PGAcom', 'name': 'PGA.COM', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'GolfWorld', 'name': 'Golf World', 'verified': True}, level:2
+[LGlick1.friends]name:ScottBaio, level:2, nodes:25, edges:29
+[not LGlick1.friends]name:{'screen_name': 'POTUS', 'name': 'President Trump', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'WhiteHouse', 'name': 'The White House', 'verified': True}, level:2
+[LGlick1.friends]name:parscale, level:2, nodes:26, edges:30
+[not LGlick1.friends]name:{'screen_name': 'JenLada', 'name': 'Jen Lada', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'HarveyLevinTMZ', 'name': 'Harvey Levin', 'verified': True}, level:2
+[LGlick1.friends]name:chubby6665, level:2, nodes:27, edges:31
+[LGlick1.friends]name:MrsVanessaTrump, level:2, nodes:28, edges:32
+[LGlick1.friends]name:KatrinaCampins, level:2, nodes:29, edges:33
+[not LGlick1.friends]name:{'screen_name': 'LouDobbs', 'name': 'Lou Dobbs', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'wolfblitzer', 'name': 'Wolf Blitzer', 'verified': True}, level:2
+[LGlick1.friends]name:JTSantucci, level:2, nodes:30, edges:34
+[LGlick1.friends]name:TayeDiggs, level:2, nodes:31, edges:35
+[not LGlick1.friends]name:{'screen_name': 'KellyannePolls', 'name': 'Kellyanne Conway', 'verified': True}, level:2
+[LGlick1.friends(exist)]name:Trump, level:2
+[not LGlick1.friends]name:{'screen_name': 'TeamTrump', 'name': 'Official Team Trump', 'verified': True}, level:2
+[LGlick1.friends]name:MichaelBreed, level:2, nodes:32, edges:37
+[LGlick1.friends]name:RealGilbert, level:2, nodes:33, edges:38
+[LGlick1.friends]name:TiffanyATrump, level:2, nodes:34, edges:39
+[not LGlick1.friends]name:{'screen_name': 'DiamondandSilk', 'name': 'Diamond and Silk®', 'verified': True}, level:2
+[LGlick1.friends]name:JasonMillerinDC, level:2, nodes:35, edges:40
+[not LGlick1.friends]name:{'screen_name': 'NewDay', 'name': 'New Day', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'maggieNYT', 'name': 'Maggie Haberman', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'foxandfriends', 'name': 'FOX & friends', 'verified': True}, level:2
+[LGlick1.friends]name:alivitali, level:2, nodes:36, edges:41
+[not LGlick1.friends]name:{'screen_name': 'CNN', 'name': 'CNN', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'PRyan', 'name': 'Paul Ryan', 'verified': True}, level:2
+Name: Eric Trump<br>Screen_name: EricTrump<br>Country:United States of America<br>HomeTown:New York City<br>Medical_Condition:None<br>Race:None<br>Profession:businessperson, socialite, television presenter<br>Religion:None<br>Political_Party:Republican Party<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention]name:DonaldJTrumpJr, nodes:10, edges:12
+[not LGlick1.friends]name:{'screen_name': 'Reince', 'name': 'Reince Priebus', 'verified': True}, level:2
+user_screen_name: DonaldJTrumpJr
+user_name: Donald Trump Jr.
+[not LGlick1.friends]name:{'screen_name': 'mike_pence', 'name': 'Mike Pence', 'verified': True}, level:2
+[LGlick1.friends]name:Graeme_McDowell, level:2, nodes:37, edges:42
+[not LGlick1.friends]name:{'screen_name': 'RickieFowler', 'name': 'Rickie Fowler', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'FoxBusiness', 'name': 'FOX Business', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'JasonDufner', 'name': 'Jason Dufner', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'LukeDonald', 'name': 'Luke Donald', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'WestwoodLee', 'name': 'Lee Westwood', 'verified': True}, level:2
+user_name_search: Donald Trump Jr.
+[not LGlick1.friends]name:{'screen_name': 'JustinRose99', 'name': 'Justin Rose', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'seanhannity', 'name': 'Sean Hannity', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'DanScavino', 'name': 'Dan Scavino Jr.', 'verified': True}, level:2
+[LGlick1.friends]name:Scaramucci, level:2, nodes:38, edges:43
+[not LGlick1.friends]name:{'screen_name': 'JudgeJeanine', 'name': 'Jeanine Pirro', 'verified': True}, level:2
+[LGlick1.friends]name:TrumpTurnberry, level:2, nodes:39, edges:44
+[LGlick1.friends]name:JasonHervey, level:2, nodes:40, edges:45
+[not LGlick1.friends]name:{'screen_name': 'gohermie', 'name': 'Jim Herman', 'verified': True}, level:2
+******get LGlick1-Katrina Pierson friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=NjybytXg5BIRiXNMLGv0VLe1W&oauth_nonce=10291634076325943265&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517574330&oauth_token=942386441706905600-1Z3B1RwM2Tgtw30V7n4JhzV4mSprtGl&oauth_version=1.0&source_screen_name=LGlick1&target_screen_name=KatrinaPierson&oauth_signature=i0yUpyiI%2FfMVwxKi8LtPVVeQAXE%3D)
+details: {'errors': [{'code': 88, 'message': 'Rate limit exceeded'}]}
+Name: Donald Trump Jr.<br>Screen_name: DonaldJTrumpJr<br>Country:United States of America<br>HomeTown:New York City<br>Medical_Condition:None<br>Race:None<br>Profession:entrepreneur, businessperson, television presenter<br>Religion:None<br>Political_Party:Republican Party<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:Vanessa Trump
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpStore', 'name': 'Trump Store'}
+[Trump.mention]name:TrumpDoonbeg, nodes:11, edges:15
+user_screen_name: TrumpDoonbeg
+user_name: Trump Doonbeg
+user_name_search: Doonbeg
+Trump Doonbeg 不是人哈哈哈哈
+Trump Doonbeg wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpStore', 'name': 'Trump Store'}
+[Trump.mention]name:TrumpWaikiki, nodes:12, edges:20
+user_screen_name: TrumpWaikiki
+user_name: Trump Waikiki
+user_name_search: Trump International Hotel and Tower (Honolulu)
+Trump Waikiki 不是人哈哈哈哈
+Trump Waikiki wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpStore', 'name': 'Trump Store'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention]name:trumptowerpde, nodes:13, edges:24
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention]name:TrumpChicago, nodes:14, edges:26
+user_screen_name: TrumpChicago
+user_name: Trump Hotel Chicago
+user_name_search: Trump International Hotel and Tower (Chicago)
+Trump Hotel Chicago 不是人哈哈哈哈
+Trump Hotel Chicago wikidata is None
+[Trump.mention]name:TrumpJupiter, nodes:15, edges:27
+user_screen_name: TrumpJupiter
+user_name: Trump Jupiter
+user_name_search: Trump National Golf Club (Jupiter, Florida)
+Trump Jupiter 不是人哈哈哈哈
+Trump Jupiter wikidata is None
+[Trump.mention]name:USATODAY, nodes:16, edges:28
+user_screen_name: USATODAY
+user_name: USA TODAY
+user_name_search: USA Today
+USA TODAY 不是人哈哈哈哈
+USA TODAY wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention]name:TrumpDC, nodes:17, edges:30
+user_screen_name: TrumpDC
+user_name: Trump Washington DC
+user_name_search: Old Post Office (Washington, D.C.)
+Trump Washington DC 不是人哈哈哈哈
+Trump Washington DC wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention]name:MacyTumblin, nodes:18, edges:32
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention]name:MarALago, nodes:19, edges:36
+[Trump.mention]name:WollmanRink, nodes:20, edges:37
+user_screen_name: WollmanRink
+user_name: Wollman Rink ⛸
+user_name_search: Wollman Rink
+Wollman Rink ⛸ 不是人哈哈哈哈
+Wollman Rink ⛸ wikidata is None
+[Trump.mention]name:TrumpTurnberry, nodes:21, edges:38
+user_screen_name: TrumpTurnberry
+user_name: Trump Turnberry
+user_name_search: Turnberry (golf course)
+Trump Turnberry 不是人哈哈哈哈
+Trump Turnberry wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention]name:TrumpNationalNY, nodes:22, edges:41
+user_screen_name: TrumpNationalNY
+user_name: Trump Westchester
+user_name_search: Trump National Golf Club Westchester
+Trump Westchester 不是人哈哈哈哈
+Trump Westchester wikidata is None
+[Trump.mention]name:TrumpNewYork, nodes:23, edges:42
+user_screen_name: TrumpNewYork
+user_name: Trump New York
+user_name_search: New York v. Trump
+Trump New York 不是人哈哈哈哈
+Trump New York wikidata is None
+[Trump.mention]name:TrumpPalmBeach, nodes:24, edges:43
+user_screen_name: TrumpPalmBeach
+user_name: Trump Palm Beach
+user_name_search: Trump Plaza (West Palm Beach)
+Trump Palm Beach 不是人哈哈哈哈
+Trump Palm Beach wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention]name:TrumpGolf, nodes:25, edges:44
+user_screen_name: TrumpGolf
+user_name: Trump Golf
+user_name_search: Donald Trump and golf
+******get Donald Trump and golf wikidata ERROR: https://www.wikidata.org/w/api.php?action=wbgetentities&formatversion=2&languages=en&props=aliases|info|claims|descriptions|labels|sitelinks&redirects=yes&sites=enwiki&titles=Donald%20Trump%20and%20golf
+user_name_search: Donald Trump and golf
+******get Donald Trump and golf wikidata ERROR: https://www.wikidata.org/w/api.php?action=wbgetentities&formatversion=2&languages=en&props=aliases|info|claims|descriptions|labels|sitelinks&redirects=yes&sites=enwiki&titles=Donald%20Trump%20and%20golf
+更换search name为:  Family of Donald Trump
+user_name_search: Family of Donald Trump
+Trump Golf 不是人哈哈哈哈
+Trump Golf wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention]name:TrumpLasVegas, nodes:26, edges:50
+user_screen_name: TrumpLasVegas
+user_name: Trump Vegas Hotel
+user_name_search: Trump International Hotel Las Vegas
+Trump Vegas Hotel 不是人哈哈哈哈
+Trump Vegas Hotel wikidata is None
+[Trump.mention]name:TrumpFerryPoint, nodes:27, edges:51
+user_screen_name: TrumpFerryPoint
+user_name: Trump Ferry Point
+user_name_search: Ferry Point Park
+Trump Ferry Point 不是人哈哈哈哈
+Trump Ferry Point wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'WollmanRink', 'name': 'Wollman Rink ⛸'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpJupiter', 'name': 'Trump Jupiter'}
+[Trump.mention]name:jacknicklaus, nodes:28, edges:57
+user_screen_name: jacknicklaus
+user_name: Jack Nicklaus
+user_name_search: Jack Nicklaus
+Name: Jack Nicklaus<br>Screen_name: jacknicklaus<br>Country:United States of America<br>HomeTown:Columbus<br>Medical_Condition:poliomyelitis<br>Race:None<br>Profession:golfer<br>Religion:None<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'MarALago', 'name': 'Trump Mar-A-Lago'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention]name:TrumpCharlotte, nodes:29, edges:61
+user_screen_name: TrumpCharlotte
+user_name: Trump Charlotte
+user_name_search: Trump family
+Trump Charlotte 不是人哈哈哈哈
+Trump Charlotte wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'WollmanRink', 'name': 'Wollman Rink ⛸'}
+[Trump.mention]name:AlbemarleEstate, nodes:30, edges:64
+user_screen_name: AlbemarleEstate
+user_name: TrumpAlbemarleEstate
+user_name_search: Trump Winery
+TrumpAlbemarleEstate 不是人哈哈哈哈
+TrumpAlbemarleEstate wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNationalNY', 'name': 'Trump Westchester'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention]name:LaraLeaTrump, nodes:31, edges:69
+user_screen_name: LaraLeaTrump
+user_name: Lara Trump
+user_name_search: Lara Trump
+Name: Lara Trump<br>Screen_name: LaraLeaTrump<br>Country:United States of America<br>HomeTown:Wilmington<br>Medical_Condition:None<br>Race:None<br>Profession:None<br>Religion:None<br>Political_Party:None<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:Eric Trump
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention]name:TrumpDoral, nodes:32, edges:71
+user_screen_name: TrumpDoral
+user_name: Trump National Doral
+user_name_search: Trump National Doral Miami
+Trump National Doral 不是人哈哈哈哈
+Trump National Doral wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNationalNY', 'name': 'Trump Westchester'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention]name:CPHorseShow, nodes:33, edges:79
+[Trump.mention(exist)]name:{'screen_name': 'WollmanRink', 'name': 'Wollman Rink ⛸'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention]name:TrumpPanama, nodes:34, edges:82
+user_screen_name: TrumpPanama
+user_name: Trump Hotel Panama
+user_name_search: Trump International Hotel & Tower Panama
+Trump Hotel Panama 不是人哈哈哈哈
+Trump Hotel Panama wikidata is None
+[Trump.mention]name:TrumpGolfPhilly, nodes:35, edges:83
+user_screen_name: TrumpGolfPhilly
+user_name: Trump Philadelphia
+user_name_search: Melania Trump
+Name: Trump Philadelphia<br>Screen_name: TrumpGolfPhilly<br>Country:Slovenia, United States of America, Socialist Federal Republic<br> &nbsp &nbsp &nbsp &nbsp &nbsp  of Yugoslavia<br>HomeTown:Novo Mesto<br>Medical_Condition:None<br>Race:Slovene American<br>Profession:model, jewellery designer<br>Religion:Catholic Church, Christianity<br>Political_Party:Republican Party<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:Donald Trump
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'LaraLeaTrump', 'name': 'Lara Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention]name:TrumpBedminster, nodes:36, edges:88
+user_screen_name: TrumpBedminster
+user_name: Trump Bedminster
+user_name_search: Trump National Golf Club (Bedminster, New Jersey)
+Trump Bedminster 不是人哈哈哈哈
+Trump Bedminster wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention]name:WeddingWire, nodes:37, edges:92
+user_screen_name: WeddingWire
+user_name: WeddingWire
+user_name_search: WeddingWire
+WeddingWire 不是人哈哈哈哈
+WeddingWire wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention]name:TrumpColtsNeck, nodes:38, edges:97
+user_screen_name: TrumpColtsNeck
+user_name: Trump Colts Neck
+user_name_search: Trump National Golf Club (Bedminster, New Jersey)
+Trump Colts Neck 不是人哈哈哈哈
+Trump Colts Neck wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention]name:TrumpGolfDC, nodes:39, edges:102
+user_screen_name: TrumpGolfDC
+user_name: Trump Washington DC
+user_name_search: Old Post Office (Washington, D.C.)
+Trump Washington DC 不是人哈哈哈哈
+Trump Washington DC wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention]name:TrumpGolfLA, nodes:40, edges:110
+user_screen_name: TrumpGolfLA
+user_name: Trump Los Angeles
+user_name_search: Trump National Golf Club (Los Angeles)
+Trump Los Angeles 不是人哈哈哈哈
+Trump Los Angeles wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNationalNY', 'name': 'Trump Westchester'}
+[Trump.mention(exist)]name:{'screen_name': 'AlbemarleEstate', 'name': 'TrumpAlbemarleEstate'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention]name:RickSmithGolf, nodes:41, edges:115
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention]name:USGA, nodes:42, edges:126
+user_screen_name: USGA
+user_name: USGA
+user_name_search: United States Golf Association
+USGA 不是人哈哈哈哈
+USGA wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention]name:FOXTV, nodes:43, edges:129
+user_screen_name: FOXTV
+user_name: FOX
+user_name_search: Fox
+FOX 不是人哈哈哈哈
+FOX wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'FOXTV', 'name': 'FOX'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'USGA', 'name': 'USGA'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention]name:RickieFowler, nodes:44, edges:142
+user_screen_name: RickieFowler
+user_name: Rickie Fowler
+user_name_search: Rickie Fowler
+Name: Rickie Fowler<br>Screen_name: RickieFowler<br>Country:United States of America<br>HomeTown:Anaheim<br>Medical_Condition:None<br>Race:None<br>Profession:golfer<br>Religion:None<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention]name:WineEnthusiast, nodes:45, edges:146
+user_screen_name: WineEnthusiast
+user_name: Wine Enthusiast
+user_name_search: Wine Enthusiast Magazine
+Wine Enthusiast 不是人哈哈哈哈
+Wine Enthusiast wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNationalNY', 'name': 'Trump Westchester'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpJupiter', 'name': 'Trump Jupiter'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention]name:MariaBartiromo, nodes:46, edges:162
+user_screen_name: MariaBartiromo
+user_name: Maria Bartiromo
+user_name_search: Maria Bartiromo
+Name: Maria Bartiromo<br>Screen_name: MariaBartiromo<br>Country:United States of America<br>HomeTown:New York City<br>Medical_Condition:None<br>Race:None<br>Profession:journalist, columnist, news presenter, author<br>Religion:None<br>Political_Party:None<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention]name:FoxNews, nodes:47, edges:164
+user_screen_name: FoxNews
+user_name: Fox News
+user_name_search: Fox News
+Fox News 不是人哈哈哈哈
+Fox News wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention]name:USArmy, nodes:48, edges:169
+user_screen_name: USArmy
+user_name: U.S. Army
+user_name_search: United States Army
+U.S. Army 不是人哈哈哈哈
+U.S. Army wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfLA', 'name': 'Trump Los Angeles'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfPhilly', 'name': 'Trump Philadelphia'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention]name:GolfCentral, nodes:49, edges:181
+user_screen_name: GolfCentral
+user_name: Golf Central
+user_name_search: Golf Central
+Golf Central 不是人哈哈哈哈
+Golf Central wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention]name:PGA_JohnDaly, nodes:50, edges:184
+user_screen_name: PGA_JohnDaly
+user_name: John Daly
+user_name_search: John Daly
+John Daly 不是人哈哈哈哈
+John Daly wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention]name:seniorpgachamp, nodes:51, edges:186
+user_screen_name: seniorpgachamp
+user_name: Senior PGA Champ
+user_name_search: Peter Senior
+Name: Senior PGA Champ<br>Screen_name: seniorpgachamp<br>Country:Australia<br>HomeTown:Singapore<br>Medical_Condition:None<br>Race:None<br>Profession:golfer<br>Religion:None<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'seniorpgachamp', 'name': 'Senior PGA Champ'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'seniorpgachamp', 'name': 'Senior PGA Champ'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention]name:GolfChannel, nodes:52, edges:193
+user_screen_name: GolfChannel
+user_name: Golf Channel
+user_name_search: Golf Channel
+Golf Channel 不是人哈哈哈哈
+Golf Channel wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention]name:TripAdvisor, nodes:53, edges:197
+user_screen_name: TripAdvisor
+user_name: TripAdvisor
+user_name_search: TripAdvisor
+TripAdvisor 不是人哈哈哈哈
+TripAdvisor wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'seniorpgachamp', 'name': 'Senior PGA Champ'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention]name:golfweek, nodes:54, edges:201
+user_screen_name: golfweek
+user_name: Golfweek
+user_name_search: Golfweek
+Golfweek 不是人哈哈哈哈
+Golfweek wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention]name:RoccoMediate, nodes:55, edges:213
+user_screen_name: RoccoMediate
+user_name: Rocco Mediate
+user_name_search: Rocco Mediate
+Name: Rocco Mediate<br>Screen_name: RoccoMediate<br>Country:United States of America<br>HomeTown:Greensburg<br>Medical_Condition:None<br>Race:None<br>Profession:golfer<br>Religion:None<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'LaraLeaTrump', 'name': 'Lara Trump'}
+[Trump.mention]name:DrOz, nodes:56, edges:220
+user_screen_name: DrOz
+user_name: Dr. Mehmet Oz
+user_name_search: Mehmet Oz
+Name: Dr. Mehmet Oz<br>Screen_name: DrOz<br>Country:Turkey<br>HomeTown:Cleveland<br>Medical_Condition:None<br>Race:Turkish American<br>Profession:author, scientist, surgeon, journalist<br>Religion:Muslim<br>Political_Party:Republican Party<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:Lisa Oz
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention]name:GolfDigest, nodes:57, edges:224
+user_screen_name: GolfDigest
+user_name: Golf Digest
+user_name_search: Golf Digest
+Golf Digest 不是人哈哈哈哈
+Golf Digest wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention]name:GolfAdvisor, nodes:58, edges:231
+user_screen_name: GolfAdvisor
+user_name: Golf Advisor
+user_name_search: Ship Sticks
+Golf Advisor 不是人哈哈哈哈
+Golf Advisor wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDubai', 'name': 'Trump Dubai'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpColtsNeck', 'name': 'Trump Colts Neck'}
+[Trump.mention(exist)]name:{'screen_name': 'MarALago', 'name': 'Trump Mar-A-Lago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpJupiter', 'name': 'Trump Jupiter'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'FoxNews', 'name': 'Fox News'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'LaraLeaTrump', 'name': 'Lara Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpCharlotte', 'name': 'Trump Charlotte'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama'}
+[Trump.mention]name:TrumpGolfHV, nodes:59, edges:251
+user_screen_name: TrumpGolfHV
+user_name: Trump Hudson Valley
+user_name_search: Hudson Valley Community College
+Trump Hudson Valley 不是人哈哈哈哈
+Trump Hudson Valley wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDubai', 'name': 'Trump Dubai'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDubai', 'name': 'Trump Dubai'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDubai', 'name': 'Trump Dubai'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'AlbemarleEstate', 'name': 'TrumpAlbemarleEstate'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'MarALago', 'name': 'Trump Mar-A-Lago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention]name:usnews, nodes:60, edges:277
+user_screen_name: usnews
+user_name: U.S. News
+user_name_search: U.S. News & World Report
+U.S. News 不是人哈哈哈哈
+U.S. News wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention]name:CNTraveler, nodes:61, edges:279
+user_screen_name: CNTraveler
+user_name: Condé Nast Traveler
+user_name_search: Condé Nast Traveler
+Condé Nast Traveler 不是人哈哈哈哈
+Condé Nast Traveler wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpColtsNeck', 'name': 'Trump Colts Neck'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpJupiter', 'name': 'Trump Jupiter'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDubai', 'name': 'Trump Dubai'}
+[Trump.mention]name:kevinmurraygolf, nodes:62, edges:294
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'trumptowerpde', 'name': 'Trump Tower PDE'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfHV', 'name': 'Trump Hudson Valley'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention]name:EricTrumpFdn, nodes:63, edges:310
+user_screen_name: EricTrumpFdn
+user_name: The Eric Trump Fdn
+user_name_search: 2016 in aviation
+The Eric Trump Fdn 不是人哈哈哈哈
+The Eric Trump Fdn wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'EricTrumpFdn', 'name': 'The Eric Trump Fdn'}
+[Trump.mention]name:StJude, nodes:64, edges:312
+user_screen_name: StJude
+user_name: St. Jude
+user_name_search: Jude the Apostle
+Name: St. Jude<br>Screen_name: StJude<br>Country:ancient Rome<br>HomeTown:Galilee<br>Medical_Condition:None<br>Race:Jewish people<br>Profession:Catholic priest<br>Religion:Catholic Church<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention]name:IvankaTrump, nodes:65, edges:314
+user_screen_name: IvankaTrump
+user_name: Ivanka Trump
+user_name_search: Ivanka Trump
+Name: Ivanka Trump<br>Screen_name: IvankaTrump<br>Country:United States of America<br>HomeTown:New York City<br>Medical_Condition:None<br>Race:None<br>Profession:businessperson, model, non-fiction writer, politician, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision presenter<br>Religion:Orthodox Judaism, Catholicism, Judaism<br>Political_Party:independent politician<br>Sex:female<br>Academic_Degree:Bachelor of Science, Bachelor of Arts<br>Economical_Condition:None<br>Marital_Status:Jared Kushner
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'WollmanRink', 'name': 'Wollman Rink ⛸'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention]name:SushiNakazawa, nodes:66, edges:319
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpColtsNeck', 'name': 'Trump Colts Neck'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrumpFdn', 'name': 'The Eric Trump Fdn'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPalmBeach', 'name': 'Trump Palm Beach'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention]name:OrahPhoto, nodes:67, edges:335
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpCharlotte', 'name': 'Trump Charlotte'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention]name:realDonaldTrump, nodes:68, edges:340
+user_screen_name: realDonaldTrump
+user_name: Donald J. Trump
+user_name_search: Donald Trump
+Name: Donald J. Trump<br>Screen_name: realDonaldTrump<br>Country:United States of America<br>HomeTown:NYC, New York, United States of America<br>Medical_Condition:None<br>Race:White American, German American<br>Profession:business magnate, investor, restaurateur, non-fiction write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r, entrepreneur, politician, businessperson, property developer, game <br> &nbsp &nbsp &nbsp &nbsp &nbsp show host, political writer, statesman, real estate entrepreneur, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision producer, film producer, writer, actor, film actor, chief execu<br> &nbsp &nbsp &nbsp &nbsp &nbsp tive officer<br>Religion:Presbyterianism<br>Political_Party:Republican Party, Republican Party, Republican Party, <br> &nbsp &nbsp &nbsp &nbsp &nbsp Independence Party of America, Democratic Party, independent politicia<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Sex:male<br>Academic_Degree:Bachelor of Science<br>Economical_Condition:$4500000000<br>Marital_Status:Ivana Trump, Melania Trump, Marla Maples
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention(exist)]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama'}
+[Trump.mention]name:MichaelBreed, nodes:69, edges:358
+user_screen_name: MichaelBreed
+user_name: Michael Breed
+user_name_search: Michael Breed
+Name: Michael Breed<br>Screen_name: MichaelBreed<br>Country:United States of America<br>HomeTown:None<br>Medical_Condition:None<br>Race:None<br>Profession:golfer<br>Religion:None<br>Political_Party:None<br>Sex:male<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention]name:FortuneMPW, nodes:70, edges:361
+user_screen_name: FortuneMPW
+user_name: Fortune MPW
+user_name_search: Peng Lei
+Name: Fortune MPW<br>Screen_name: FortuneMPW<br>Country:Peoples Republic of China<br>HomeTown:Hangzhou<br>Medical_Condition:None<br>Race:None<br>Profession:businessperson<br>Religion:None<br>Political_Party:None<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'CNTraveler', 'name': 'Condé Nast Traveler'}
+[Trump.mention]name:serenawilliams, nodes:71, edges:364
+user_screen_name: serenawilliams
+user_name: Serena Williams
+user_name_search: Serena Williams
+Name: Serena Williams<br>Screen_name: serenawilliams<br>Country:United States of America<br>HomeTown:Saginaw<br>Medical_Condition:None<br>Race:African Americans<br>Profession:tennis player, autobiographer, actor, businessperson, write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r<br>Religion:Jehovahs Witnesses<br>Political_Party:None<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:Alexis Ohanian
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDubai', 'name': 'Trump Dubai'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention]name:JamesOrlowski, nodes:72, edges:373
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfHV', 'name': 'Trump Hudson Valley'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention]name:GMA, nodes:73, edges:384
+user_screen_name: GMA
+user_name: Good Morning America
+user_name_search: Good Morning America
+Good Morning America 不是人哈哈哈哈
+Good Morning America wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTower', 'name': 'Trump Tower New York'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpColtsNeck', 'name': 'Trump Colts Neck'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama'}
+[Trump.mention(exist)]name:{'screen_name': 'AlbemarleEstate', 'name': 'TrumpAlbemarleEstate'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpBedminster', 'name': 'Trump Bedminster'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolfLA', 'name': 'Trump Los Angeles'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpWaikiki', 'name': 'Trump Waikiki'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention]name:businessinsider, nodes:74, edges:414
+user_screen_name: businessinsider
+user_name: Business Insider
+user_name_search: Business Insider
+Business Insider 不是人哈哈哈哈
+Business Insider wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump'}
+[Trump.mention]name:greta, nodes:75, edges:418
+user_screen_name: greta
+user_name: Greta Van Susteren
+user_name_search: Greta Van Susteren
+Name: Greta Van Susteren<br>Screen_name: greta<br>Country:United States of America<br>HomeTown:Appleton<br>Medical_Condition:None<br>Race:None<br>Profession:television presenter, lawyer, journalist<br>Religion:Scientology<br>Political_Party:None<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention(exist)]name:{'screen_name': 'RoccoMediate', 'name': 'Rocco Mediate'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrumpFdn', 'name': 'The Eric Trump Fdn'}
+[Trump.mention(exist)]name:{'screen_name': 'StJude', 'name': 'St. Jude'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention]name:golf_com, nodes:76, edges:425
+user_screen_name: golf_com
+user_name: GOLF.com
+user_name_search: Golf Magazine
+GOLF.com 不是人哈哈哈哈
+GOLF.com wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention]name:MissMiaKang, nodes:77, edges:428
+user_screen_name: MissMiaKang
+user_name: Mia Kang
+user_name_search: Kang Byul
+Name: Mia Kang<br>Screen_name: MissMiaKang<br>Country:South Korea<br>HomeTown:Seoul<br>Medical_Condition:None<br>Race:None<br>Profession:film actor, actor<br>Religion:None<br>Political_Party:None<br>Sex:female<br>Academic_Degree:None<br>Economical_Condition:None<br>Marital_Status:None
+[Trump.mention]name:TrumpModels, nodes:78, edges:429
+user_screen_name: TrumpModels
+user_name: Trump Models
+user_name_search: Trump Model Management
+Trump Models 不是人哈哈哈哈
+Trump Models wikidata is None
+[Trump.mention]name:SInow, nodes:79, edges:430
+user_screen_name: SInow
+user_name: Sports Illustrated
+user_name_search: Sports Illustrated
+Sports Illustrated 不是人哈哈哈哈
+Sports Illustrated wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpModels', 'name': 'Trump Models'}
+[Trump.mention]name:voguemagazine, nodes:80, edges:436
+user_screen_name: voguemagazine
+user_name: Vogue Magazine
+user_name_search: Vogue (magazine)
+Vogue Magazine 不是人哈哈哈哈
+Vogue Magazine wikidata is None
+[Trump.mention(exist)]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'DonaldJTrumpJr', 'name': 'Donald Trump Jr.'}
+[Trump.mention(exist)]name:{'screen_name': 'EricTrump', 'name': 'Eric Trump'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpRealty', 'name': 'Trump Realty'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpGolf', 'name': 'Trump Golf'}
+[Trump.mention(exist)]name:{'screen_name': 'TrumpModels', 'name': 'Trump Models'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[Trump.mention(exist)]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery'}
+[Trump.mention(exist)]name:{'screen_name': 'Trump', 'name': 'The Trump Organization'}
+[LGlick1.friends]name:KatrinaPierson, level:2, nodes:41, edges:46
+[LGlick1.friends]name:PGA_JohnDaly, level:2, nodes:42, edges:47
+[not LGlick1.friends]name:{'screen_name': 'RealBenCarson', 'name': 'Ben & Candy Carson', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'GMA', 'name': 'Good Morning America', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'CLewandowski_', 'name': 'Corey R. Lewandowski', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'Lexi', 'name': 'Lexi Thompson', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'suzannpettersen', 'name': 'Suzann Pettersen', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'CKGolferChic', 'name': 'Cristie Kerr', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'usopengolf', 'name': 'U.S. Open (USGA)', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'GolfDigest', 'name': 'Golf Digest', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'PGA', 'name': 'PGA of America', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'JillMartin', 'name': 'Jill Martin', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'MELANIATRUMP', 'name': 'MELANIA TRUMP', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'JennLahmers', 'name': 'Jennifer Lahmers', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'DJohnsonPGA', 'name': 'Dustin Johnson', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'lorenzolamas', 'name': 'Lorenzo Lamas', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'chambleebrandel', 'name': 'Brandel Chamblee', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'garywilliamsGC', 'name': 'Gary Williams', 'verified': True}, level:2
+[LGlick1.friends]name:GeoffShac, level:2, nodes:43, edges:48
+[LGlick1.friends]name:MattGinellaGC, level:2, nodes:44, edges:49
+[not LGlick1.friends]name:{'screen_name': 'MissUSA', 'name': 'Miss USA', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'JordanSpieth', 'name': 'Jordan Spieth', 'verified': True}, level:2
+[LGlick1.friends]name:LaraLeaTrump, level:2, nodes:45, edges:50
+[LGlick1.friends]name:CharlieRymerGC, level:2, nodes:46, edges:51
+[not LGlick1.friends]name:{'screen_name': 'BrandiGlanville', 'name': 'Brandi Glanville', 'verified': True}, level:2
+[LGlick1.friends]name:JohnnyDamon, level:2, nodes:47, edges:52
+[not LGlick1.friends]name:{'screen_name': 'LeezaGibbons', 'name': 'Leeza Gibbons', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'KellyRipa', 'name': 'Kelly Ripa', 'verified': True}, level:2
+[LGlick1.friends]name:IanZiering, level:2, nodes:48, edges:53
+[LGlick1.friends]name:MichaelCohen212, level:2, nodes:49, edges:54
+[not LGlick1.friends]name:{'screen_name': 'elkpga', 'name': 'Steve Elkington', 'verified': True}, level:2
+[LGlick1.friends]name:ShaneVictorino, level:2, nodes:50, edges:55
+[LGlick1.friends(exist)]name:TrumpDoral, level:2
+[not LGlick1.friends]name:{'screen_name': 'AlenaShishkova', 'name': 'Alena Shishkova', 'verified': True}, level:2
+[LGlick1.friends]name:AlbieManzo, level:2, nodes:51, edges:57
+[LGlick1.friends]name:holly_sonders, level:2, nodes:52, edges:58
+[LGlick1.friends]name:Glendagilson, level:2, nodes:53, edges:59
+[LGlick1.friends]name:TrumpDoonbeg, level:2, nodes:54, edges:60
+[not LGlick1.friends]name:{'screen_name': 'markwahlberg', 'name': 'Mark Wahlberg', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'mrdougellin', 'name': 'Doug Ellin', 'verified': True}, level:2
+[LGlick1.friends]name:garyplayer, level:2, nodes:55, edges:61
+[not LGlick1.friends]name:{'screen_name': 'TaylorMadeGolf', 'name': 'TaylorMade Golf', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'Fehertwit', 'name': 'David Feherty', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'jimmyfallon', 'name': 'jimmy fallon', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'TheSergioGarcia', 'name': 'Sergio Garcia', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'froggyradio', 'name': 'Froggy 🎙', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'ElvisDuranShow', 'name': 'Elvis Duran Show', 'verified': True}, level:2
+[LGlick1.friends(exist)]name:TrumpGolf, level:2
+[LGlick1.friends]name:IanJamesPoulter, level:2, nodes:56, edges:63
+[LGlick1.friends]name:damienwoody, level:2, nodes:57, edges:64
+[not LGlick1.friends]name:{'screen_name': 'bubbawatson', 'name': 'bubba watson', 'verified': True}, level:2
+[LGlick1.friends]name:elvisduran, level:2, nodes:58, edges:65
+[not LGlick1.friends]name:{'screen_name': 'Mark_Sanchez', 'name': 'Mark Sanchez', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'ToneTime10', 'name': 'Santonio Hol❌es Jr.', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'Esmitty33', 'name': 'Eric Smith', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'Revis24', 'name': 'Darrelle Revis', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'jayfeely', 'name': 'Jay Feely', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'JeromeBettis36', 'name': 'Jerome Bettis', 'verified': True}, level:2
+[LGlick1.friends]name:Teresa_Giudice, level:2, nodes:59, edges:66
+[LGlick1.friends]name:jimleonhard, level:2, nodes:60, edges:67
+[LGlick1.friends]name:LynnePatton, level:2, nodes:61, edges:68
+[not LGlick1.friends]name:{'screen_name': 'LilJon', 'name': 'LILJON', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'charliesheen', 'name': 'Charlie Sheen', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'Mets', 'name': 'New York Mets', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'nyjets', 'name': 'New York Jets', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'StJude', 'name': 'St. Jude', 'verified': True}, level:2
+[LGlick1.friends]name:EricTrumpFdn, level:2, nodes:62, edges:69
+[not LGlick1.friends]name:{'screen_name': 'operationsmile', 'name': 'Operation Smile', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'TrumpHotels', 'name': 'Trump Hotels', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'WSJ', 'name': 'The Wall Street Journal', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'TheMasters', 'name': 'Masters Tournament', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'PGATOUR', 'name': 'PGA TOUR', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'bretmichaels', 'name': 'Bret Michaels', 'verified': True}, level:2
+[LGlick1.friends]name:RoccoMediate, level:2, nodes:63, edges:70
+[not LGlick1.friends]name:{'screen_name': 'GCMorningDrive', 'name': 'Morning Drive', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'GolfChannel', 'name': 'Golf Channel', 'verified': True}, level:2
+[not LGlick1.friends]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump', 'verified': True}, level:2
+[LGlick1.friends(exist)]name:EricTrump, level:2
+[LGlick1.friends(exist)]name:DonaldJTrumpJr, level:2
+[LGlick1.friends]name:nickmangold, level:2, nodes:64, edges:73
+[LGlick1.friends(exist)]name:IvankaTrump, level:2
+[Trump.friends(exist)]name:TiffanyATrump, level:1
+[Trump.friends(exist)]name:MrsVanessaTrump, level:1
+[not Trump.friends]name:{'screen_name': 'IvankaTrumpHQ', 'name': 'Ivanka Trump HQ', 'verified': True}, level:1
+[Trump.friends]name:TrumpVancouver, level:1, nodes:65, edges:77
+user_screen_name: TrumpVancouver
+user_name: Trump Vancouver
+user_name_search: Trump International Hotel and Tower (Vancouver)
+Trump Vancouver 不是人哈哈哈哈
+Trump Vancouver wikidata is None
+[friends]name:TrumpVancouver, level:2, nodes:66, edges:77
+[not TrumpVancouver.friends]name:{'screen_name': 'BT_Vancouver', 'name': 'Breakfast Television Vancouver', 'verified': True}, level:2
+[TrumpVancouver.friends(exist)]name:Trump, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'percolate', 'name': 'Percolate', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CanadianTire', 'name': 'Canadian Tire', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CTVLis', 'name': 'Lis Travers', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CBCOlympics', 'name': 'CBC Olympics', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'AmericanExpress', 'name': 'American Express', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MINICanada', 'name': 'MINI Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'infiniticanada', 'name': 'Infiniti Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'nissancanada', 'name': 'Nissan Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MercedesBenzCDN', 'name': 'Mercedes-Benz Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'bmwcanada', 'name': 'BMW Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'AudiCanada', 'name': 'Audi Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'midnightsunblog', 'name': 'Midnight Sun', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'paulaforbes', 'name': 'Paula Forbes', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Nicholasgill', 'name': 'Nicholas Gill', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'BryceGruber', 'name': 'Bryce Gruber', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'awayishome', 'name': 'Away is Home', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'k8lo', 'name': 'kate lowenstein', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'lukeoneil47', 'name': "Luke O'Neil", 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'kat_odell', 'name': 'Kat Odell', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'VeraSweeney', 'name': 'Vera Sweeney', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'IAmAudarshia', 'name': 'Audarshia Townsend', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CultureTrip', 'name': 'Culture Trip', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'good', 'name': 'GOOD', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'colincowie', 'name': 'Colin Cowie', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'garyplayer', 'name': 'Gary Player', 'verified': True}, level:2
+[TrumpVancouver.friends(exist)]name:TrumpGolf, level:2
+[TrumpVancouver.friends(exist)]name:TrumpDoonbeg, level:2
+[TrumpVancouver.friends]name:MarshaCollier, level:2, nodes:66, edges:80
+[not TrumpVancouver.friends]name:{'screen_name': 'GD_MikeO', 'name': "Mike O'Malley", 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'AlanShipnuck', 'name': 'Alan Shipnuck', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'AlanPittmanGD', 'name': 'Alan Pittman', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Pete_Finch', 'name': 'Pete Finch', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'StinaSternberg', 'name': 'Stina Sternberg', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MikeStachura', 'name': 'Mike Stachura', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'LINKSMagazine', 'name': 'LINKS Magazine', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MattGinellaGC', 'name': 'Matt Ginella', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'FleurDeForce', 'name': 'Fleur', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'harlowandsage', 'name': 'Harlow and Sage', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'levoleague', 'name': 'Levo', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'HarvardBiz', 'name': 'Harvard Biz Review', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'PGA', 'name': 'PGA of America', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'GirlsWhoCode', 'name': 'Girls Who Code', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'rachelhaot', 'name': 'Rachel Sterne Haot', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'JoesDaily', 'name': 'Joe Miragliotta', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'foxnomad', 'name': 'Anil Polat', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Veronica', 'name': 'Veronica Belmont', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'kobebryant', 'name': 'Kobe Bryant', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'oliviaculpo', 'name': 'Olivia Culpo', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'PGATOUR', 'name': 'PGA TOUR', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'WGCMexico', 'name': 'Mexico Championship', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'YoungAdventures', 'name': 'Liz Carlson', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'sashasouza', 'name': 'Sasha Souza', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'milosraonic', 'name': 'Milos Raonic', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'BoardofTrade', 'name': 'GVBOT', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'DestinationCAN', 'name': 'Destination Canada', 'verified': True}, level:2
+[TrumpVancouver.friends]name:jstorres, level:2, nodes:67, edges:81
+[not TrumpVancouver.friends]name:{'screen_name': 'donaldsonkyle', 'name': 'Kyle Donaldson', 'verified': True}, level:2
+[TrumpVancouver.friends]name:raehanbobby, level:2, nodes:68, edges:82
+[not TrumpVancouver.friends]name:{'screen_name': 'simplymeasured', 'name': 'Simply Measured', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'WHLGiants', 'name': 'Vancouver Giants', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'marianodivaio', 'name': 'Mariano Di Vaio', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'BuzzFeed', 'name': 'BuzzFeed', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'FastCompany', 'name': 'Fast Company', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Expedia', 'name': 'Expedia', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'ForbesLife', 'name': 'ForbesLife', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Entrepreneur', 'name': 'Entrepreneur', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'nafeesakarim', 'name': 'Nafeesa Karim', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'OneMileataTime', 'name': 'Ben Schlappig', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'astonmartin', 'name': 'Aston Martin', 'verified': True}, level:2
+[TrumpVancouver.friends]name:darcynews, level:2, nodes:69, edges:83
+[not TrumpVancouver.friends]name:{'screen_name': 'socialbakers', 'name': 'Socialbakers', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'AdamScotti', 'name': 'Adam Scotti 🇨🇦📷', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CTVNews', 'name': 'CTV News', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Phanyxx', 'name': 'Nick Routley', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'mlysakow', 'name': 'Mark Lysakowski', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'canoetravel', 'name': 'Canoe Travel', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'DeparturesMag', 'name': 'Departures Magazine', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MaisonLaduree', 'name': 'Ladurée', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'charmainecrooks', 'name': 'CharmaineCrooks', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'TenorsMusic', 'name': 'The Tenors', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'cliftonmurray', 'name': 'Clifton Murray 克里夫頓', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Laurel_Robbins', 'name': 'Laurel Robbins', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'skift', 'name': 'Skift', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'SajeWellness', 'name': 'Saje Wellness', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CBCStephenQuinn', 'name': 'Stephen Quinn', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'bcalmanac', 'name': 'bcalmanac', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'LienY', 'name': 'Lien Yeung', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'KimWynnCTV', 'name': 'Kimberly Wynn', 'verified': True}, level:2
+[TrumpVancouver.friends]name:steeletalk, level:2, nodes:70, edges:84
+[not TrumpVancouver.friends]name:{'screen_name': 'TELUS', 'name': 'TELUS', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CBC', 'name': 'CBC', 'verified': True}, level:2
+******get TrumpVancouver-Rio Theatre friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=NjybytXg5BIRiXNMLGv0VLe1W&oauth_nonce=16982471573337948634&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517575224&oauth_token=942386441706905600-1Z3B1RwM2Tgtw30V7n4JhzV4mSprtGl&oauth_version=1.0&source_screen_name=TrumpVancouver&target_screen_name=RioTheatre&oauth_signature=D6d45oZSvt9ugvMQW0g7KpwBi30%3D)
+details: {'errors': [{'code': 88, 'message': 'Rate limit exceeded'}]}
+******get TrumpVancouver-Rio Theatre friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=NjybytXg5BIRiXNMLGv0VLe1W&oauth_nonce=17290170534199241125&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517576071&oauth_token=942386441706905600-1Z3B1RwM2Tgtw30V7n4JhzV4mSprtGl&oauth_version=1.0&source_screen_name=TrumpVancouver&target_screen_name=RioTheatre&oauth_signature=hNF9k1ACzBo7QSq7aLbqTu8cRZQ%3D)
+details: {'errors': [{'code': 88, 'message': 'Rate limit exceeded'}]}
+[not TrumpVancouver.friends]name:{'screen_name': 'RioTheatre', 'name': 'Rio Theatre', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'ArrowProdOffice', 'name': 'Arrow Prod. Office', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'VanWebFest', 'name': 'Vancouver Web Fest', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'jthornthwaite', 'name': 'Jane Thornthwaite', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'thenetworkhub', 'name': '✨The Network Hub', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'sam_sullivan', 'name': 'Sam Sullivan CM', 'verified': True}, level:2
+[TrumpVancouver.friends]name:jackermann, level:2, nodes:71, edges:85
+[TrumpVancouver.friends]name:catherinebarr, level:2, nodes:72, edges:86
+[not TrumpVancouver.friends]name:{'screen_name': 'StephenHui', 'name': 'Stephen Hui / 105 Hikes', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'THEPEAK', 'name': '102.7 THE PEAK', 'verified': True}, level:2
+[TrumpVancouver.friends]name:ZachBoychuk, level:2, nodes:73, edges:87
+[TrumpVancouver.friends]name:LCMayhew, level:2, nodes:74, edges:88
+[not TrumpVancouver.friends]name:{'screen_name': 'ExploreCanada', 'name': 'Canada', 'verified': True}, level:2
+[TrumpVancouver.friends]name:ForbesInspector, level:2, nodes:75, edges:89
+[not TrumpVancouver.friends]name:{'screen_name': 'Mike_Killeen', 'name': 'Mike Killeen', 'verified': True}, level:2
+[TrumpVancouver.friends]name:Roundhouse983, level:2, nodes:76, edges:90
+[TrumpVancouver.friends]name:CFPacificCentre, level:2, nodes:77, edges:91
+[not TrumpVancouver.friends]name:{'screen_name': 'Jesstours', 'name': 'Jess Fleming', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Crestron', 'name': 'Crestron', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'BCFerries', 'name': 'BC Ferries', 'verified': True}, level:2
+[TrumpVancouver.friends]name:RiazMeghji, level:2, nodes:78, edges:92
+[not TrumpVancouver.friends]name:{'screen_name': 'TrumpFerryPoint', 'name': 'Trump Ferry Point', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'naomiyamamoto', 'name': 'Naomi Yamamoto', 'verified': True}, level:2
+[TrumpVancouver.friends]name:MaryZilba, level:2, nodes:79, edges:93
+[not TrumpVancouver.friends]name:{'screen_name': 'HelloBC', 'name': 'Destination BC', 'verified': True}, level:2
+[TrumpVancouver.friends(exist)]name:TrumpAberdeen, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'indy100', 'name': 'indy100', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'samsheffer', 'name': 'Sam Sheffer', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MONTECRISTO_Mag', 'name': 'MONTECRISTO Magazine', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'BenMulroney', 'name': 'Ben Mulroney', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'VancityBuzz', 'name': 'Daily Hive Vancouver', 'verified': True}, level:2
+[TrumpVancouver.friends]name:brentcjang, level:2, nodes:80, edges:95
+[TrumpVancouver.friends]name:HuffPostBC, level:2, nodes:81, edges:96
+[not TrumpVancouver.friends]name:{'screen_name': 'HakkasanLV', 'name': 'Hakkasan Las Vegas', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'DraisLV', 'name': "Drai's Las Vegas", 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Equinox', 'name': 'Equinox', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'dawnchubai', 'name': 'Dawn Chubai', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'VanArtGallery', 'name': 'Vancouver ArtGallery', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'HotelChatter', 'name': 'HotelChatter', 'verified': True}, level:2
+[TrumpVancouver.friends]name:GoWhistler, level:2, nodes:82, edges:97
+[not TrumpVancouver.friends]name:{'screen_name': 'BrooksBrothers', 'name': 'Brooks Brothers', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'DeBeers', 'name': 'De Beers', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'LouisVuitton', 'name': 'Louis Vuitton', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'TiffanyAndCo', 'name': 'Tiffany & Co.', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Dior', 'name': 'Dior', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'gucci', 'name': 'gucci', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Prada', 'name': 'PRADA', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'MichaelKors', 'name': 'Michael Kors', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Cartier', 'name': 'Cartier', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'HoltRenfrew', 'name': 'Holt Renfrew', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'StJohnKnits', 'name': 'StJohnKnits', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'harryroseninc', 'name': 'Harry Rosen Menswear', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'toryburch', 'name': 'Tory Burch', 'verified': True}, level:2
+[TrumpVancouver.friends]name:hootsuite, level:2, nodes:83, edges:98
+[not TrumpVancouver.friends]name:{'screen_name': 'rollsroycecars', 'name': 'Rolls-RoyceMotorCars', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'globeandmail', 'name': 'The Globe and Mail', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'hgtvcanada', 'name': 'HGTV Canada', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'TopAgentMag', 'name': 'Top Agent Magazine', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CREA_ACI', 'name': 'CREA | ACI', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'cherylchan', 'name': 'Cheryl Chan', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'michaelbabad', 'name': 'Michael Babad', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'taraperkins', 'name': 'Tara Perkins', 'verified': True}, level:2
+[TrumpVancouver.friends]name:PeterMeiszner, level:2, nodes:84, edges:99
+[not TrumpVancouver.friends]name:{'screen_name': 'JillKrop', 'name': '@JillKrop', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CBCVancouver', 'name': 'CBC Vancouver', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Canucks', 'name': 'Vancouver Canucks', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'VancouverSun', 'name': 'The Vancouver Sun', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'NEWS1130', 'name': 'NEWS 1130', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CTVVancouver', 'name': 'CTV Vancouver', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Forbes', 'name': 'Forbes', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CNN', 'name': 'CNN', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'Miss604', 'name': 'Rebecca Bollwitt', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'GlobalBC', 'name': 'Global BC', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'jillianharris', 'name': 'Jillian Harris', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'FionaForbes', 'name': 'FionaForbes', 'verified': True}, level:2
+[TrumpVancouver.friends]name:MyVancouver, level:2, nodes:85, edges:100
+[TrumpVancouver.friends]name:dezchen, level:2, nodes:86, edges:101
+[TrumpVancouver.friends]name:farhanmohamed, level:2, nodes:87, edges:102
+[not TrumpVancouver.friends]name:{'screen_name': 'yvrairport', 'name': 'Vancouver Airport', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'luxuryhomemag', 'name': 'Luxury Home Magazine', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'CENTURY21', 'name': 'CENTURY 21', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'vanmag_com', 'name': 'Vancouver Magazine', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'vancouvermetro', 'name': 'Metro Vancouver', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'DonRCampbell', 'name': 'Don R. Campbell', 'verified': True}, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'DustyWallet', 'name': 'Garry Marr', 'verified': True}, level:2
+[TrumpVancouver.friends(exist)]name:TrumpTower, level:2
+[TrumpVancouver.friends(exist)]name:EricTrump, level:2
+[TrumpVancouver.friends]name:TrumpPanama, level:2, nodes:88, edges:105
+[TrumpVancouver.friends]name:TrumpNewYork, level:2, nodes:89, edges:106
+[TrumpVancouver.friends]name:TrumpWaikiki, level:2, nodes:90, edges:107
+[TrumpVancouver.friends(exist)]name:TrumpChicago, level:2
+[not TrumpVancouver.friends]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel', 'verified': True}, level:2
+[TrumpVancouver.friends(exist)]name:DonaldJTrumpJr, level:2
+[TrumpVancouver.friends(exist)]name:TrumpHotels, level:2
+[Trump.friends(exist)]name:TrumpGolfDubai, level:1
+[Trump.friends]name:TrumpJupiter, level:1, nodes:91, edges:112
+user_screen_name: TrumpJupiter
+user_name: Trump Jupiter
+user_name_search: Trump National Golf Club (Jupiter, Florida)
+Trump Jupiter 不是人哈哈哈哈
+Trump Jupiter wikidata is None
+[friends]name:TrumpJupiter, level:2, nodes:92, edges:112
+[TrumpJupiter.friends(exist)]name:TrumpGolfDubai, level:2
+[TrumpJupiter.friends(exist)]name:DonaldJTrumpJr, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'EricTrumpFdn', 'name': 'The Eric Trump Fdn', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'Cadillac', 'name': 'Cadillac', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'GolfDigest', 'name': 'Golf Digest', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'GolfChannel', 'name': 'Golf Channel', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'PGAcom', 'name': 'PGA.COM', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'PGATOUR', 'name': 'PGA TOUR', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TigerWoods', 'name': 'Tiger Woods', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TaylorMadeGolf', 'name': 'TaylorMade Golf', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'adidasGolf', 'name': 'adidas Golf', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'ESPNGolf', 'name': 'ESPN Golf', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'USGA', 'name': 'USGA', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'PGA', 'name': 'PGA of America', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'golf_com', 'name': 'GOLF.com', 'verified': True}, level:2
+[TrumpJupiter.friends]name:golfweek, level:2, nodes:92, edges:114
+[not TrumpJupiter.friends]name:{'screen_name': 'GolfWorld', 'name': 'Golf World', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'DJohnsonPGA', 'name': 'Dustin Johnson', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'Titleist', 'name': 'Titleist', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'JordanSpieth', 'name': 'Jordan Spieth', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'LaraLeaTrump', 'name': 'Lara Trump', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:LynnePatton, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'trumpwinery', 'name': 'Trump Winery', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpChicago', 'name': 'Trump Hotel Chicago', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TheMasters', 'name': 'Masters Tournament', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'usopengolf', 'name': 'U.S. Open (USGA)', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'PGAChampionship', 'name': 'PGA Championship', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'SInow', 'name': 'Sports Illustrated', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TheBig_Easy', 'name': 'Ernie Els', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpModels', 'name': 'Trump Models', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'PGA_JohnDaly', 'name': 'John Daly', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'CallawayGolf', 'name': 'Callaway Golf', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'MELANIATRUMP', 'name': 'MELANIA TRUMP', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TiffanyATrump', 'name': 'Tiffany Ariana Trump', 'verified': True}, level:2
+[TrumpJupiter.friends]name:TrumpPalmBeach, level:2, nodes:93, edges:116
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpTower, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpLasVegas', 'name': 'Trump Vegas Hotel', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'cnnbrk', 'name': 'CNN Breaking News', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpWaikiki, level:2
+[TrumpJupiter.friends(exist)]name:Trump, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'nytimes', 'name': 'The New York Times', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'IvankaTrump', 'name': 'Ivanka Trump', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpPanama', 'name': 'Trump Hotel Panama', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'CNN', 'name': 'CNN', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'StephenAtHome', 'name': 'Stephen Colbert', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpDC', 'name': 'Trump Washington DC', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'SportsCenter', 'name': 'SportsCenter', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpHotels, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'BarackObama', 'name': 'Barack Obama', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpRealty, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'HillaryClinton', 'name': 'Hillary Clinton', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpBedminster, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'LGlick1', 'name': 'Larry Glick', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'jimmyfallon', 'name': 'jimmy fallon', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'GeoffShac', 'name': 'Geoff Shackelford', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'realDonaldTrump', 'name': 'Donald J. Trump', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'espn', 'name': 'ESPN', 'verified': True}, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpTurnberry', 'name': 'Trump Turnberry', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpCharlotte, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpDoral', 'name': 'Trump National Doral', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpNationalNY, level:2
+[TrumpJupiter.friends(exist)]name:TrumpGolfLA, level:2
+[TrumpJupiter.friends(exist)]name:TrumpGolfPhilly, level:2
+[TrumpJupiter.friends(exist)]name:TrumpAberdeen, level:2
+[TrumpJupiter.friends(exist)]name:TrumpFerryPoint, level:2
+[TrumpJupiter.friends(exist)]name:TrumpGolfDC, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'Lexi', 'name': 'Lexi Thompson', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:TrumpGolfHV, level:2
+[TrumpJupiter.friends(exist)]name:TrumpGolf, level:2
+[TrumpJupiter.friends(exist)]name:TrumpColtsNeck, level:2
+[not TrumpJupiter.friends]name:{'screen_name': 'TrumpDoonbeg', 'name': 'Trump Doonbeg', 'verified': True}, level:2
+[TrumpJupiter.friends(exist)]name:EricTrump, level:2
+[Trump.friends(exist)]name:TrumpPalmBeach, level:1
+[Trump.friends(exist)]name:TrumpGolf, level:1
+[Trump.friends(exist)]name:TrumpTower, level:1
+[Trump.friends]name:trumpwinery, level:1, nodes:94, edges:137
+user_screen_name: trumpwinery
+user_name: Trump Winery
+user_name_search: Trump Winery
+Trump Winery 不是人哈哈哈哈
+Trump Winery wikidata is None
+[friends]name:trumpwinery, level:2, nodes:95, edges:137
+[not trumpwinery.friends]name:{'screen_name': 'hootsuite', 'name': 'Hootsuite', 'verified': True}, level:2
+[trumpwinery.friends(exist)]name:Trump, level:2
+[trumpwinery.friends(exist)]name:TrumpDC, level:2
+[not trumpwinery.friends]name:{'screen_name': 'VenetianVegas', 'name': 'Venetian Las Vegas', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'UVA', 'name': 'UVA', 'verified': True}, level:2
+******get trumpwinery-TrumpAlbemarleEstate friendships ERROR: Twitter sent status 429 for URL: 1.1/friendships/show.json using parameters: (oauth_consumer_key=NjybytXg5BIRiXNMLGv0VLe1W&oauth_nonce=6162517560144653937&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1517576122&oauth_token=942386441706905600-1Z3B1RwM2Tgtw30V7n4JhzV4mSprtGl&oauth_version=1.0&source_screen_name=trumpwinery&target_screen_name=AlbemarleEstate&oauth_signature=AX0TDVklcwIzgNBKbdzRf5xcpI4%3D)
+details: {'errors': [{'code': 88, 'message': 'Rate limit exceeded'}]}
+[trumpwinery.friends]name:AlbemarleEstate, level:2, nodes:95, edges:139
+[not trumpwinery.friends]name:{'screen_name': 'kcoleuncorked', 'name': 'Katherine Cole', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'jamiegoode', 'name': 'Jamie Goode', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'JancisRobinson', 'name': 'Jancis Robinson', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'WeddingWire', 'name': 'WeddingWire', 'verified': True}, level:2
+[trumpwinery.friends]name:Fiery01Red, level:2, nodes:96, edges:140
+[not trumpwinery.friends]name:{'screen_name': 'Crowdfire', 'name': 'Crowdfire', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'TrumpVancouver', 'name': 'Trump Vancouver', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'WholeFoods', 'name': 'Whole Foods Market', 'verified': True}, level:2
+[trumpwinery.friends]name:JMiquelWine, level:2, nodes:97, edges:141
+[not trumpwinery.friends]name:{'screen_name': 'washingtonian', 'name': 'Washingtonian', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'washingtonpost', 'name': 'Washington Post', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'imbibe', 'name': 'Imbibe Magazine', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'Southern_Living', 'name': 'Southern Living', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'bonappetit', 'name': 'Bon Appétit', 'verified': True}, level:2
+[trumpwinery.friends(exist)]name:TrumpAberdeen, level:2
+[not trumpwinery.friends]name:{'screen_name': 'FoodNetwork', 'name': 'Food Network', 'verified': True}, level:2
+[not trumpwinery.friends]name:{'screen_name': 'WineSpectator', 'name': 'Wine Spectator', 'verified': True}, level:2
+[trumpwinery.friends]name:duckhornwine, level:2, nodes:98, edges:143
+[trumpwinery.friends(exist)]name:TrumpFerryPoint, level:2
+[trumpwinery.friends(exist)]name:TrumpGolfHV, level:2
+[trumpwinery.friends(exist)]name:TrumpDoonbeg, level:2
+[trumpwinery.friends]name:HelloVino, level:2, nodes:99, edges:147
+[trumpwinery.friends(exist)]name:TrumpGolf, level:2
+[trumpwinery.friends]name:GlassOfBubbly, level:2, nodes:100, edges:149
+[trumpwinery.friends(exist)]name:TrumpRealty, level:2
+[trumpwinery.friends]name:SOMM_FILM, level:2, nodes:101, edges:151
+[not trumpwinery.friends]name:{'screen_name': 'pmabray', 'name': 'Paul Mabray', 'verified': True}, level:2
+[trumpwinery.friends]name:lesliesbrocco, level:2, nodes:102, edges:152
+[trumpwinery.friends]name:VisitVirginia, level:2, nodes:103, edges:153
+[trumpwinery.friends]name:TheVFoundation, level:2, nodes:104, edges:154
+[trumpwinery.friends(exist)]name:LynnePatton, level:2
+[trumpwinery.friends(exist)]name:TrumpGolfDC, level:2
+[trumpwinery.friends(exist)]name:TrumpPanama, level:2
+[trumpwinery.friends(exist)]name:TrumpNationalNY, level:2
+[trumpwinery.friends(exist)]name:TrumpTower, level:2
+[not trumpwinery.friends]name:{'screen_name': 'DanScavino', 'name': 'Dan Scavino Jr.', 'verified': True}, level:2
+[trumpwinery.friends]name:Wegmans, level:2, nodes:105, edges:160
+[trumpwinery.friends]name:schuttedan, level:2, nodes:106, edges:161
+[trumpwinery.friends(exist)]name:TrumpDoral, level:2
+[trumpwinery.friends(exist)]name:TrumpWaikiki, level:2
+[trumpwinery.friends]name:TrumpLasVegas, level:2, nodes:107, edges:164
+[trumpwinery.friends(exist)]name:TrumpNewYork, level:2
+[trumpwinery.friends(exist)]name:TrumpHotels, level:2
+[trumpwinery.friends(exist)]name:EricTrumpFdn, level:2
+[trumpwinery.friends(exist)]name:TrumpChicago, level:2
+[trumpwinery.friends(exist)]name:TrumpCharlotte, level:2
+[trumpwinery.friends(exist)]name:TrumpGolfLA, level:2
+[trumpwinery.friends(exist)]name:IvankaTrump, level:2
+[trumpwinery.friends(exist)]name:EricTrump, level:2
+[trumpwinery.friends]name:WineEnthusiast, level:2, nodes:108, edges:173
+[Trump.friends(exist)]name:TrumpTurnberry, level:1
+[Trump.friends(exist)]name:TrumpBedminster, level:1
+[Trump.friends(exist)]name:TrumpNationalNY, level:1
+[Trump.friends(exist)]name:TrumpAberdeen, level:1
+[Trump.friends(exist)]name:TrumpWaikiki, level:1
+[Trump.friends(exist)]name:TrumpDoonbeg, level:1
+[Trump.friends(exist)]name:TrumpHotels, level:1
+[Trump.friends(exist)]name:TrumpChicago, level:1
+[Trump.friends(exist)]name:TrumpLasVegas, level:1
+[Trump.friends(exist)]name:TrumpGolfPhilly, level:1
+[Trump.friends(exist)]name:TrumpColtsNeck, level:1
+[Trump.friends(exist)]name:TrumpGolfHV, level:1
+[Trump.friends(exist)]name:TrumpDC, level:1
+[Trump.friends(exist)]name:TrumpGolfDC, level:1
+[Trump.friends(exist)]name:TrumpGolfLA, level:1
+[Trump.friends(exist)]name:TrumpDoral, level:1
+[Trump.friends(exist)]name:TrumpCharlotte, level:1
+[Trump.friends(exist)]name:TrumpRealty, level:1
+[not Trump.friends]name:{'screen_name': 'TrumpNewYork', 'name': 'Trump New York', 'verified': True}, level:1
+[Trump.friends(exist)]name:EricTrumpFdn, level:1
+[Trump.friends(exist)]name:TrumpFerryPoint, level:1
+[not Trump.friends]name:{'screen_name': 'TrumpModels', 'name': 'Trump Models', 'verified': True}, level:1
+[Trump.friends(exist)]name:DonaldJTrumpJr, level:1
+[Trump.friends(exist)]name:EricTrump, level:1
+[Trump.friends(exist)]name:IvankaTrump, level:1
+[Trump.friends]name:realDonaldTrump, level:1, nodes:109, edges:197
+user_screen_name: realDonaldTrump
+user_name: Donald J. Trump
+user_name_search: Donald Trump
+Name: Donald J. Trump<br>Screen_name: realDonaldTrump<br>Country:United States of America<br>HomeTown:NYC, New York, United States of America<br>Medical_Condition:None<br>Race:White American, German American<br>Profession:business magnate, investor, restaurateur, non-fiction write<br> &nbsp &nbsp &nbsp &nbsp &nbsp r, entrepreneur, politician, businessperson, property developer, game <br> &nbsp &nbsp &nbsp &nbsp &nbsp show host, political writer, statesman, real estate entrepreneur, tele<br> &nbsp &nbsp &nbsp &nbsp &nbsp vision producer, film producer, writer, actor, film actor, chief execu<br> &nbsp &nbsp &nbsp &nbsp &nbsp tive officer<br>Religion:Presbyterianism<br>Political_Party:Republican Party, Republican Party, Republican Party, <br> &nbsp &nbsp &nbsp &nbsp &nbsp Independence Party of America, Democratic Party, independent politicia<br> &nbsp &nbsp &nbsp &nbsp &nbsp n<br>Sex:male<br>Academic_Degree:Bachelor of Science<br>Economical_Condition:$4500000000<br>Marital_Status:Ivana Trump, Melania Trump, Marla Maples
+[friends]name:realDonaldTrump, level:2, nodes:110, edges:197
+[realDonaldTrump.friends]name:PressSec, level:2, nodes:110, edges:197
+[realDonaldTrump.friends]name:TuckerCarlson, level:2, nodes:111, edges:198
+[realDonaldTrump.friends]name:JesseBWatters, level:2, nodes:112, edges:199
+[realDonaldTrump.friends]name:WhiteHouse, level:2, nodes:113, edges:200
+[realDonaldTrump.friends]name:Scavino45, level:2, nodes:114, edges:201
+[realDonaldTrump.friends]name:KellyannePolls, level:2, nodes:115, edges:202
+[realDonaldTrump.friends]name:Reince, level:2, nodes:116, edges:203
+[realDonaldTrump.friends]name:RealRomaDowney, level:2, nodes:117, edges:204
+[realDonaldTrump.friends(exist)]name:Trump, level:2
+[realDonaldTrump.friends(exist)]name:TrumpGolf, level:2
+[realDonaldTrump.friends(exist)]name:TiffanyATrump, level:2
+[realDonaldTrump.friends]name:IngrahamAngle, level:2, nodes:118, edges:208
+[realDonaldTrump.friends]name:mike_pence, level:2, nodes:119, edges:209
+[realDonaldTrump.friends]name:TeamTrump, level:2, nodes:120, edges:210
+[realDonaldTrump.friends(exist)]name:MrsVanessaTrump, level:2
+[realDonaldTrump.friends(exist)]name:LaraLeaTrump, level:2
+[realDonaldTrump.friends]name:seanhannity, level:2, nodes:121, edges:213
+[realDonaldTrump.friends]name:foxnation, level:2, nodes:122, edges:214
+[realDonaldTrump.friends]name:CLewandowski_, level:2, nodes:123, edges:215
+[realDonaldTrump.friends]name:AnnCoulter, level:2, nodes:124, edges:216
+[realDonaldTrump.friends]name:DiamondandSilk, level:2, nodes:125, edges:217
+[realDonaldTrump.friends(exist)]name:KatrinaCampins, level:2
+[realDonaldTrump.friends(exist)]name:KatrinaPierson, level:2
+[realDonaldTrump.friends(exist)]name:MichaelCohen212, level:2
+[realDonaldTrump.friends]name:foxandfriends, level:2, nodes:126, edges:221
+[realDonaldTrump.friends]name:MELANIATRUMP, level:2, nodes:127, edges:222
+[realDonaldTrump.friends]name:GeraldoRivera, level:2, nodes:128, edges:223
+[realDonaldTrump.friends]name:ericbolling, level:2, nodes:129, edges:224
+[realDonaldTrump.friends]name:MarkBurnettTV, level:2, nodes:130, edges:225
+[realDonaldTrump.friends(exist)]name:garyplayer, level:2
+[realDonaldTrump.friends]name:VinceMcMahon, level:2, nodes:131, edges:227
+[realDonaldTrump.friends]name:DanScavino, level:2, nodes:132, edges:228
+[realDonaldTrump.friends(exist)]name:TrumpDoral, level:2
+[realDonaldTrump.friends(exist)]name:TrumpCharlotte, level:2
+[realDonaldTrump.friends(exist)]name:TrumpLasVegas, level:2
+[realDonaldTrump.friends(exist)]name:TrumpChicago, level:2
+[realDonaldTrump.friends(exist)]name:TrumpGolfDC, level:2
+[realDonaldTrump.friends(exist)]name:TrumpGolfLA, level:2
+[realDonaldTrump.friends(exist)]name:EricTrump, level:2
+[realDonaldTrump.friends]name:BillOReilly, level:2, nodes:133, edges:236
+[realDonaldTrump.friends]name:greta, level:2, nodes:134, edges:237
+[realDonaldTrump.friends]name:piersmorgan, level:2, nodes:135, edges:238
+[realDonaldTrump.friends(exist)]name:DonaldJTrumpJr, level:2
+[realDonaldTrump.friends(exist)]name:IvankaTrump, level:2
+nodes:174, edges:688
+categories: [{'name': 'Trump'}, {'name': 'The Trump Organization.s mention'}, {'name': 'Larry Glick.s friend'}, {'name': 'Donald J. Trump.s friend'}, {'name': 'Trump Vancouver.s friend'}, {'name': 'Trump Winery.s friend'}, {'name': 'Donald J. Trump.s friend<br>Larry Glick.s friend'}, {'name': 'The Trump Organization.s friend<br>The Trump Organization.s mention<br>Trump Jupiter.s friend<br>Trump Winery.s friend<br>Wollman Rink ⛸.s friend'}, {'name': 'Larry Glick.s friend<br>The Trump Organization.s mention'}, {'name': 'Donald J. Trump.s friend<br>Larry Glick.s friend<br>The Trump Organization.s friend<br>The Trump Organization.s mention<br>Trump Jupiter.s friend<br>Trump Store.s friend<br>Trump Vancouver.s friend<br>Trump Winery.s friend<br>Wollman Rink ⛸.s friend'}, {'name': 'Donald J. Trump.s friend<br>Larry Glick.s friend<br>The Trump Organization.s friend'}]
+complex-nodes:148, edges:688
+complex-categories: [{'name': 'Trump'}, {'name': 'The Trump Organization.s mention'}, {'name': 'Donald J. Trump.s friend'}, {'name': 'Trump Vancouver.s friend'}, {'name': 'Trump Winery.s friend'}, {'name': 'Donald J. Trump.s friend<br>Larry Glick.s friend'}, {'name': 'The Trump Organization.s friend<br>The Trump Organization.s mention<br>Trump Jupiter.s friend<br>Trump Winery.s friend<br>Wollman Rink ⛸.s friend'}, {'name': 'Larry Glick.s friend<br>The Trump Organization.s mention'}, {'name': 'Donald J. Trump.s friend<br>Larry Glick.s friend<br>The Trump Organization.s friend<br>The Trump Organization.s mention<br>Trump Jupiter.s friend<br>Trump Store.s friend<br>Trump Vancouver.s friend<br>Trump Winery.s friend<br>Wollman Rink ⛸.s friend'}, {'name': 'Donald J. Trump.s friend<br>The Trump Organization.s friend<br>The Trump Organization.s mention<br>Trump Jupiter.s friend<br>Trump Winery.s friend<br>Wollman Rink ⛸.s friend'}, {'name': 'The Trump Organization.s mention<br>Trump Vancouver.s friend<br>Trump Winery.s friend'}]
+
+getTwitterData.py end!!!
+
+getTwitterData.py-Trump:EDN TIME:2018-02-02 13:10:18
+getTwitterData.py-Trump:USED TIME:45
+***********************************************************************
+Note: Wikidata item Q30628687 missing 'instance of' (P31)
+Note: Wikidata item Q39060896 missing 'instance of' (P31)
+Note: Wikidata item Q30603816 missing 'instance of' (P31)
+Note: Wikidata item Q30628687 missing 'instance of' (P31)
+
+******send_email Error: [Errno 2] No such file or directory: './nohup.out'
