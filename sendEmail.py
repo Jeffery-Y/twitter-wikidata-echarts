@@ -7,10 +7,10 @@ from email.utils import parseaddr, formataddr
 from email.mime.multipart import MIMEMultipart
 import smtplib
 
-from_addr = 'getvpsresult@163.com' 
-password = 'yangmingjia'
-smtp_server = 'stmp.163.com'
-to_addr = '908210478@qq.com'
+from_addr = '' 
+password = ''
+smtp_server = ''
+to_addr = ''
 
 def send_email(python_name, result_file):
     def _format_addr(s):
