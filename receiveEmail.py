@@ -6,9 +6,9 @@ from email.utils import parseaddr
 import poplib
 
 # 输入邮件地址, 口令和POP3服务器地址:
-email = 'getvpsresult@163.com' #'ymj.jeffrey@gmail.com'
-password = 'yangmingjia'
-pop3_server = 'pop.163.com'
+email = ''
+password = ''
+pop3_server = ''
 
 def getEmailRequest():
     def decode_str(s):
